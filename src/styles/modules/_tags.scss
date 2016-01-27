@@ -1,0 +1,35 @@
+.tags {
+    position: relative;
+
+    padding: 0.5rem 0;
+    border-top: 2px solid $color-grey;
+
+    &:first-child {
+        border-top: 0;
+    }
+}
+
+.criteria__levels {
+    display: block;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2rem 0.3rem;
+
+    background-color: $color-purple;
+    border-radius: 0.1rem;
+    color: #fff;
+
+    font-size: 0.8rem;
+    text-align: center;
+    text-transform: uppercase;
+
+    & + & {
+        margin-left: 0.2rem;
+    }
+
+    &:first-child {
+        margin-left: 0;
+    }
+}

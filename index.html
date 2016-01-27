@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" data-ng-app="glossaryApp" class="ie-old"><![endif]-->
+<!--[if IE 9]><html lang="en" data-ng-app="glossaryApp" class="ie-9"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en" data-ng-app="glossaryApp"><!--<![endif]-->
+    <head>
+        <meta charset="utf-8"> 
+        <title>Zone Glossary</title>
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" type="text/css">
+        <link rel="stylesheet" href="dist/styles/app.css" type="text/css">
+        <link rel="shortcut icon" href="images/favicon.ico">
+        <link rel="apple-touch-icon" href="images/zone-logo.svg">
+        <link rel="apple-touch-icon" href="images/zone-logo.svg" sizes="72x72">
+        <link rel="apple-touch-icon" href="images/zone-logo.svg" sizes="114x114">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+    </head>
+    <body>
+        <!-- Google Tag Manager -->
+            <!-- TODO -->
+        <!-- End Google Tag Manager -->
+        <div class="alert">
+            <div class="container">Sorry, you'll need to <a href="http://whatbrowser.org/">update your browser</a> to view this page.</div>
+        </div>
+        <div class="container">
+            <a href="http://thisiszone.com" class="app__logo" title="Visit the Zone website" target="_blank">
+                <svg version="1.1" id="zwag-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-122 114.6 596 367.7" enable-background="new -122 114.6 596 367.7" xml:space="preserve" aria-labelledby="title" aria-describedby="desc" role="img">
+                    <title>Zone Glossary</title>
+                    <desc>Zone logo on purple</desc>
+                <g>
+                    <g>
+                        <path fill="#434495" d="M245.7,298.4c0,101.5-82.3,183.9-183.9,183.9C-39.7,482.3-122,400-122,298.4
+                            c0-101.5,82.3-183.9,183.9-183.9C163.4,114.6,245.7,196.9,245.7,298.4z"/>
+                        <path fill="#FFFFFF" d="M-17.4,323.8h-29.9l40.8-50.7v-4.6h-49.7v20.1h4.1c2-13.2,2.8-15.3,7.9-15.3h26.6L-58.3,324v4.6h52.2
+                            v-21.5h-4.1C-11.9,321.2-12.6,323.8-17.4,323.8z"/>
+                        <path fill="#FFFFFF" d="M28.8,267.2c-15.2,0-28.2,12.9-28.2,31.9c0,18.7,12.3,30.6,28.2,30.6C44,329.7,57,316.9,57,298
+                            C57,279.3,44.7,267.2,28.8,267.2z M29.2,324.8c-9.5,0-19.2-8-19.2-26.2c0-18,8.8-26.6,18.5-26.6c9.5,0,19.2,8.1,19.2,26.3
+                            C47.6,316.4,38.8,324.8,29.2,324.8z"/>
+                        <path fill="#FFFFFF" d="M118,286.5c0-12.8-5.9-19.2-16.6-19.2c-7,0-15.6,3.8-23,16.8v-15.6H59.7v5.4H70v49.2H59.7v5.4h28.5v-5.4
+                            h-9.5v-29.2c0-7.7,8.8-19.5,19-19.5c3.1,0,5.9,0.7,8.1,3c2.7,2.7,3.5,7.3,3.5,13.9v31.8h-9.5v5.4h28.3v-5.4H118V286.5L118,286.5z"
+                            />
+                        <path fill="#FFFFFF" d="M157.7,267.2c-15.2,0-27.8,13.3-27.8,31.9c0,18.3,11.1,30.6,27.8,30.6c11.7,0,20.2-6.4,24-18.3h-5
+                            c-3.7,9.6-10.2,12.3-17.6,12.3c-11.4,0-19.7-8.7-19.8-25h42.9C182.5,282.8,174.7,267.2,157.7,267.2z M139.5,293.4
+                            c1.4-13.3,8.4-21.3,17.9-21.3c9.1,0,14.5,7.6,15.5,21.3H139.5z"/>
+                    </g>
+                </g>
+                </svg>
+                <span class="visually-hidden">Link opens in a new window</span>
+            </a>
+            <div class="app" data-ng-controller="EntriesCtrl">
+                <h1 class="app__title">Zone <strong>Glossary</strong></h1>
+
+                <p class="app__intro">We know that our industry our our organisation use terms, acronymns and language that can be at best esoteric and at worst confusing. That's way we created a comprehensive glossary &mdash; so that you can quickly find the correct meaning for any word or phase you may encounter when working with us.</p>
+                <p>Search by term or by department and get a succinct explanation of the relevant criteria.</p>
+
+                <div class="app__loader">Loading glossary data...</div>
+
+                <div class="content" data-ng-cloak>
+                    <div class="form" aria-label="Filter">
+                        <p>
+                            <label for="form-search-free-text">Search by term</label>
+                            <input type="text" placeholder="Enter a search term e.g. forms" data-ng-model="search.Term" aria-label="Enter a search term e.g. timezone" id="form-search-free-text">
+                        </p>
+                        <p aria-label="Filter by">
+                            <span class="select">
+                                <label for="form-search-tags">Search by priority tags</label>
+                                <select data-ng-model="search.Tags" id="form-search-tags">
+                                    <option value="">Any tags</option>
+                                    <option data-ng-repeat="tag in tags" value="{{tag}}">{{tag}}</option>
+                                </select>
+                            </span>
+                        </p>
+                    </div>
+
+                    <nav aria-label="Pagination">
+                        <ul class="pagination" data-ng-show="totalItems">
+                            <li>
+                                <button type="button" class="pagination__button pagination__button--first" data-ng-disabled="currentPage == 1" data-ng-click="currentPage=1">First page</button>
+                            </li>
+                            <li class="pagination__item">
+                                <button type="button" class="pagination__button pagination__button--prev" data-ng-disabled="currentPage == 1" data-ng-click="currentPage=currentPage-1">Previous</button>
+                            </li>
+                            <li class="pagination__location">Page {{currentPage}} of {{noOfPages}}<br><span class="pagination__matches">{{totalItems}} matching {{ totalItems == 1 ? 'item' : 'items' }}</span></li>
+                            <li class="pagination__item"> 
+                                <button type="button" class="pagination__button pagination__button--next" data-ng-disabled="currentPage >= noOfPages" data-ng-click="currentPage = currentPage+1">Next</button>
+                            </li>
+                            <li>
+                                <button type="button" class="pagination__button pagination__button--last" data-ng-disabled="currentPage >= noOfPages" data-ng-click="currentPage = noOfPages"></button>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <div class="results" aria-live="polite">
+                        <article class="criteria" data-ng-repeat="item in filteredEntries = (entries | filter:search | filter:search.tag:true) | startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit">
+                            <h2 class="criteria__description" data-ng-bind-html="item.Term | highlight:search.Term">{{item.Term}}</h2>
+                            <p>{{item.Definition}}</p>
+                            <ul class="tags">
+                                <li class="tag" ng-repeat="tag in item.Tags">
+                                    {{tag}}
+                                </li>
+                            </ul>
+                            <ul class="links">
+                                <li ng-repeat="link in item.Link" class="link">
+                                    <a href="#{{link}}">
+                                        {{link}}
+                                    </a>
+                                </li>
+                            </ul>
+                        </article>
+
+                        <p class="results__empty" data-ng-hide="totalItems">Sorry, no results found. <button type="button" data-ng-click="resetFilters()">Clear the filters?</button></p>
+                    </div>
+
+                    <nav aria-label="Pagination">
+                        <ul class="pagination" data-ng-show="totalItems">
+                            <li>
+                                <button type="button" class="pagination__button pagination__button--prev" data-ng-disabled="currentPage == 1" data-ng-click="currentPage=currentPage-1">Previous</button>
+                            </li>
+                            <li class="pagination__location">Page {{currentPage}} of {{noOfPages}}<br><span class="pagination__matches">{{totalItems}} matching {{ totalItems == 1 ? 'item' : 'items' }}</span></li>
+                            <li>
+                                <button type="button" class="pagination__button pagination__button--next" data-ng-disabled="currentPage >= noOfPages" data-ng-click="currentPage = currentPage+1">Next</button>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <footer class="app__footer">
+                        <p>JavaScript is required to load this guide. Alternatively, you can <a href="data.json">download the guide</a> as JSON.</p>
+                        <p>Conceived and produced by <a href="http://www.zonedigital.com" target="_blank">Zone Limited</a><br />
+                        <!-- <p>Please submit comments and suggestions via <a href="https://github.com/zone/zwag" target="_blank">Github <span class="visually-hidden"> (Link opens in a new window)</span></a>
+                        </p>-->
+
+                        <h3 class="app__sub-title">Disclaimer</h3>
+                        <!-- TODO -->
+                    </footer>
+                </div>
+            </div>
+        </div>
+        <script src="dist/scripts/app.js"></script>
+    </body>
+</html>

@@ -1,0 +1,1622 @@
+[
+    {
+        "Term":"A/B testing",
+        "Tags": ["UX/Design"],
+        "Definition":"The randomised testing of a current solution (control) and a proposed change (treatment). Users are presented with either the control (A) or the treatment (B) to assess which is better. This is often done through live site usage, with evaluation based on comparing analytics.",
+        "Link": ["Analytics"]
+    },
+    {
+        "Term":"Accessibility testing",
+        "Tags": ["Accessibility"],
+        "Definition":"A series of tests to make sure that online content is easy to reach and consume for people with disabilities, eg people with visual impairments who use screen readers to access the web. The global standard for accessibility guidelines is WCAG 2.0. See also Zone Web Accessibility Guidelines (ZWAG). ",
+        "Link": ["WCAG 2.0", "ZWAG"]
+    },
+    {
+        "Term":"Active listening",
+        "Tags": ["Editorial"],
+        "Definition":"Identifying and assessing what is being said about a brand on social media, or topics/influencers of interest to a brand's audience. Active listening allows brands to know what their customers think about their products/services and identify areas of conversation they can credibly become a part of. It also gives them the opportunity to respond quickly, particularly if a customer has a complaint. See also community management and crisis management.",
+        "Link": ["Community", "management", "Crisis management"]
+    },
+    {
+        "Term":"Adaptive web design (AWD)",
+        "Tags": ["Tech", "UX/Design"],
+        "Definition":"Web design that allows content to be easily viewed on desktop, tablet and mobile. Differs from responsive design in that AWD requires a completely different set of designs and templates for each platform being targeted. ",
+        "Link": ["Responsive design"]
+    },
+    {
+        "Term":"Agile marketing",
+        "Tags": ["Editorial"],
+        "Definition":"Responding to news and events as they happen, generally in the form of a funny or provocative tweet or Vine. Notable examples include Oreo's 'You can still dunk in the dark' Super Bowl tweet and Tesco's 'We've got ready-made wraps too, Drake' tweet. Agile marketing relies on an organisation having the processes in place to create, sign off and upload the content as quickly as possible. See also planned agility.",
+        "Link": ["Planned agility"]
+    },
+    {
+        "Term":"Agile software development methodology",
+        "Tags": ["Production", "Tech", "UX/Design"],
+        "Definition":"A methodology that incorporates continuous feedback to refine and deliver a software system. It helps teams respond to unpredictability through incremental, iterative work sprints. Used as an alternative to the waterfall approach. ",
+        "Link": ["Sprints", "Waterfall"]
+    },
+    {
+        "Term":"Alpha release",
+        "Tags": ["Tech", "Production"],
+        "Definition":"A release of a piece of work that is known to be incomplete. There may be features missing and bugs will not have been addressed or fixed. This should not be shown publicly and should only be released as part of the testing phase.",
+        "Link": [""]
+    },
+    {
+        "Term":"Always-on marketing",
+        "Tags": ["Editorial"],
+        "Definition":"Delivering a steady stream of entertaining, informative and/or useful content to a brand's target audiences (as opposed to campaign marketing, which is interruptive and short-lived). The always-on model runs indefinitely, is available 'on demand', able to respond quickly and requires a constant flow of content.",
+        "Link": [""]
+    },
+    {
+        "Term":"Amplification",
+        "Tags": ["Strategy"],
+        "Definition":"Metric that measures how many times a post is shared on social media, eg retweets on Twitter, shares on Facebook, thus dramatically increasing the reach of that post to a secondary audience. See also applause and conversation.",
+        "Link": ["Applause", "Conversation"]
+    },
+    {
+        "Term":"Analytics",
+        "Tags": ["Strategy"],
+        "Definition":"The collection and interpretation of data in order to gain meaningful insights and make optimal decisions. Analytics allow a brand to gauge the effectiveness of its performance and determine the ROI of its marketing activities.",
+        "Link": ["ROI"]
+    },
+    {
+        "Term":"API (Application Programming Interface)",
+        "Tags": ["Tech"],
+        "Definition":"A set of programming instructions and standards for accessing a web-based software application or tool. A software company releases its API to the public so that other software developers can design products that are powered by its service.",
+        "Link": [""]
+    },
+    {
+        "Term":"Applause",
+        "Tags": ["Strategy"],
+        "Definition":"Metric that measures how many times a post is liked on social media, eg favourites on Twitter and likes on Facebook. See also amplification and conversation.",
+        "Link": ["Amplification", "Conversation"]
+    },
+    {
+        "Term":"ARIA (or WAI ARIA)",
+        "Tags": ["Accessibility"],
+        "Definition":"Web Accessibility Initiative â€“ Accessible Rich Internet Applications is a technical specification from W3C that specifies how to increase the accessibility of web pages, in particular, dynamic content and user interface components developed with Ajax, HTML, JavaScript and related technologies. ",
+        "Link": ["W3C", "HTML", "JavaScript"]
+    },
+    {
+        "Term":"Art direction",
+        "Tags": ["UX/Design"],
+        "Definition":"The management of the artistic and design elements of a project. An art director creates the vision and defines the tone, style and emotion that should be expressed. Then they oversee the project to make sure the design stays true to the vision.",
+        "Link": [""]
+    },
+    {
+        "Term":"ASP.NET",
+        "Tags": ["Tech"],
+        "Definition":"ASP.NET is part of the .NET framework and allows developers to create rich web applictions. See also .Net",
+        "Link": ["http://www.asp.net", ".NET"]
+    },
+    {
+        "Term":"ATAG",
+        "Tags": ["Accessibility"],
+        "Definition":"The Authoring Tool Accessibililty Guidelines (ATAG) explain how to make tools accessible, so people with disabilities can create web content. They also help authors create more accessible web content.",
+        "Link": ["http://www.w3.org/WAI/intro/atag.php"]
+    },
+    {
+        "Term":"Back-end development",
+        "Tags": ["Tech"],
+        "Definition":"The back end is the part of the website that is not visible to the user. It consists of three things: a server, an application and a database. When a person buys a plane ticket, for example, the web application stores their information in a database previously created on the server. The front end is what you see; the back end is how it works.",
+        "Link": ["Front-end development"]
+    },
+    {
+        "Term":"Ballpark",
+        "Tags": ["Production"],
+        "Definition":"A cost that is given before any significant scoping has been done. Some requirements may be known but it will not have been agreed which requirements are to be included. This has an accuracy of +/- 75 per cent. See also estimate and indicative.",
+        "Link": ["Estimate", "Indicative"]
+    },
+    {
+        "Term":"Beta release",
+        "Tags": ["Tech", "Production"],
+        "Definition":"The release of a product that is finished, though all bugs may not have been identified or fixed. While this may be made publicly available, it's released into a controlled environment.",
+        "Link": [""]
+    },
+    {
+        "Term":"Bitbucket",
+        "Tags": ["Tech"],
+        "Definition":"A web-based hosting service for projects that use either the Github or Mercurial revision control systems.",
+        "Link": ["https://bitbucket.org", "Github"]
+    },
+    {
+        "Term":"Bitmap",
+        "Tags": ["UX/Design"],
+        "Definition":"Digital graphics that are made up of pixels of different colours, for example a digital photograph. Bitmap graphics tend to lose quality when they are resized. See also vector.",
+        "Link": ["Vector"]
+    },
+    {
+        "Term":"Blogger outreach",
+        "Tags": ["Editorial"],
+        "Definition":"Brands working with bloggers to create original content that promotes their goods or services. Blogger outreach is most successful when there is a shared passion between brand and blogger, the blogger is a trusted influencer to the brand's target market and there is a mutual benefit for both parties. Under ASA rules, bloggers must declare the 'sponsored' nature of commissioned content. See also influencer outreach.",
+        "Link": ["https://www.asa.org.uk/News-resources/Media-Centre/2014/Making-ads-Clear-The-challenge-for-advertisers-and-vloggers.aspx#.VffdVUI0Pww", "Influencer outreach"]
+    },
+    {
+        "Term":"Brand assets",
+        "Tags": ["UX/Design"],
+        "Definition":"Non brand-name elements that aim to evoke the brand in the minds of consumers. These can take the form of logos, slogans, colours, fonts and other distinctive creative elements. Notable examples include the Nike swoosh and the Intel Inside jingle. Consistency and strict guidelines for use are vital for maintaining effective brand assets.",
+        "Link": [""]
+    },
+    {
+        "Term":"Brand emotion ",
+        "Tags": ["Strategy", "UX/Design"],
+        "Definition":"The emotional connection a consumer feels towards a brand. If a brand can appeal to a consumer's emotional state, needs and aspirations, they can forge a bond that leads to long-term brand loyalty and advocacy. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Brand strategy",
+        "Tags": ["Strategy", "UX/Design"],
+        "Definition":"A long-term plan for successfully developing and marketing a brand. A well-defined strategy should influence all aspects of a brand and be driven by consumer needs and emotions. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Brand vision",
+        "Tags": ["Strategy", "UX/Design"],
+        "Definition":"An overarching aspiration (sometimes summed up in a single sentence) of what a brand wants to achieve; what its purpose is. Strong brand visions can inspire and give direction to staff, and attract customers. Notable examples include Oxfam's 'A just world without poverty' and Ikea's 'Affordable solutions for better living'.",
+        "Link": [""]
+    },
+    {
+        "Term":"Bug",
+        "Tags": ["Tech", "Production"],
+        "Definition":"A coding error in a computer program that causes it to malfunction. The process of finding bugs in the development phase is called debugging. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Build server",
+        "Tags": ["Tech"],
+        "Definition":"A build server, also called a continuous integration server (CI server), is a centralised, stable and reliable environment for building distributed development projects (collaborative projects worked on across multiple locations).",
+        "Link": [""]
+    },
+    {
+        "Term":"Burndown",
+        "Tags": ["Production"],
+        "Definition":"A graph that shows the amount of work left to be done before the end of a project. The Y axis shows effort and the X axis shows time. Ideally, the graph should show a downward trend as the amount of work left burns down to zero. Burndown charts are often used in agile software development.",
+        "Link": ["Agile", "software development methodology"]
+    },
+    {
+        "Term":"Business analysis",
+        "Tags": ["Production"],
+        "Definition":"The discipline of identifying business needs and finding solutions to business problems. By investigating the operations of a business, an analyst will be able to discover the causes behind results achieved, and the effects of those results. Business analysis is particularly useful for companies seeking organisational change. ",
+        "Link": [""]
+    },
+    {
+        "Term":"C based",
+        "Tags": ["Tech"],
+        "Definition":"A programming language that follows the syntax of C in nature. Examples of C-based languages include C++ and JavaScript. ",
+        "Link": ["C++"]
+    },
+    {
+        "Term":"C#",
+        "Tags": ["Tech"],
+        "Definition":"A hybrid of C and C++, C# (pronounced C-sharp) is an object-oriented programming language for networking and web development.",
+        "Link": ["C++", "Object-oriented programming"]
+    },
+    {
+        "Term":"C++",
+        "Tags": ["Tech"],
+        "Definition":"An object-oriented programming language viewed by many as the best for creating large-scale applications.",
+        "Link": ["Object-oriented programming"]
+    },
+    {
+        "Term":"Call to action (CTA)",
+        "Tags": ["Editorial", "UX/Design", "Strategy"],
+        "Definition":"An instruction to the reader urging them to take immediate action, eg 'Buy now', 'Watch the video' or 'Book an event'. In web design the CTA can be a button, a banner or graphic that the reader clicks on to continue their user journey, and therefore needs to be obvious and compelling.",
+        "Link": [""]
+    },
+    {
+        "Term":"Campaign monitor",
+        "Tags": ["Tech"],
+        "Definition":"An online email marketing application that enables designers to create, send, manage and track email marketing campaigns.",
+        "Link": ["https://www.campaignmonitor.com"]
+    },
+    {
+        "Term":"Canvas",
+        "Tags": ["Tech"],
+        "Definition":"Part of HTML5, the canvas element can be used to draw graphics via scripting in JavaScript. For example, it can be used to build graphs, animations and image compositions.",
+        "Link": ["HTML", "JavaScript"]
+    },
+    {
+        "Term":"Card sorting",
+        "Tags": ["UX/Design"],
+        "Definition":"A technique using either actual cards or software, in which users generate a hierarchy of information that can then form the basis of an information architecture or navigation menu.",
+        "Link": ["Information architecture"]
+    },
+    {
+        "Term":"CDN",
+        "Tags": ["Tech"],
+        "Definition":"A system of distributed servers that deliver web content to a user based on their location, the origin of the web page and a content delivery server. A CDN is effective at speeding up the delivery of content from websites with high traffic and/or global reach.",
+        "Link": [""]
+    },
+    {
+        "Term":"Change request",
+        "Tags": ["Production"],
+        "Definition":"This is a request for any new functionality or change in functionality, or any visual change to the site beyond the agreed scope. This includes changes that come in before the original functionality has been built.",
+        "Link": [""]
+    },
+    {
+        "Term":"Channel strategy",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"A plan of how to distribute a brand's content most effectively on social media channels, in order to reach their target audience. Many brands adopt a multi-channel strategy, and should therefore aim to adapt their content based on the characteristics of each platform.",
+        "Link": [""]
+    },
+    {
+        "Term":"Churn",
+        "Tags": ["Strategy"],
+        "Definition":"The process of customers leaving one supplier for another. Churn is a particularly important factor for businesses with a subscriber-based service model, such as broadband/pay TV providers.",
+        "Link": [""]
+    },
+    {
+        "Term":"Click Through Rate (CTR)",
+        "Tags": ["Strategy"],
+        "Definition":"The number of users who click on a specific link out of the total users who view a page, email or advert. The CTR is worked out as clicks divided by impressions (page views), expressed as a percentage. So if an email is viewed 1,000 times and the link within it is clicked five times, it has a CTR of 0.5%.",
+        "Link": [""]
+    },
+    {
+        "Term":"CMYK",
+        "Tags": ["UX/Design"],
+        "Definition":"A model used in colour printing, named after the four inks used to create all the colours: cyan, magenta, yellow and key (black). By contrast, RGB (red-green-black) is the model used for electronic devices including TVs and computers.",
+        "Link": ["RGB"]
+    },
+    {
+        "Term":"Codebase",
+        "Tags": ["Tech"],
+        "Definition":"A whole collection of source code that is used to build a software program or application. Source code is written by a programmer and cannot be read by computers, and has to be converted to object code or machine language before a computer can read or execute the program.",
+        "Link": [""]
+    },
+    {
+        "Term":"Collaborative design",
+        "Tags": ["UX/Design"],
+        "Definition":"Inviting conscious design input from users, stakeholders and other project members. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Colour palette",
+        "Tags": ["UX/Design"],
+        "Definition":"In computer graphics, the palette is the set of colours available.",
+        "Link": [""]
+    },
+    {
+        "Term":"Community management",
+        "Tags": ["Editorial"],
+        "Definition":"The process of growing, building and guiding an online community on social media or an owned platform. A community manager will support social media campaigns, create and manage content, monitor the analytics, conduct active listening and possibly blogger outreach. ",
+        "Link": ["Analytics", "Active listening", "Blogger outreach"]
+    },
+    {
+        "Term":"Compression",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of reducing the file size of images while maintaining the quality of the image. For web use, the most common formats are JPEGs (for photos) and GIFs (for computer-generated images).",
+        "Link": [""]
+    },
+    {
+        "Term":"Concept testing",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of evaluating consumer responses to a product idea before putting it on the market. Concept testing identifies perceptions, wants and needs of a product or service.",
+        "Link": [""]
+    },
+    {
+        "Term":"Content audit",
+        "Tags": ["Editorial"],
+        "Definition":"The systematic process of assessing the quality, accuracy and consistency of content on part or all of a website. When rated against a set of metrics, an audit can be used to decide whether specific articles should be kept, updated or removed. It is particularly useful when migrating content to a new site. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Content compliance",
+        "Tags": ["Editorial"],
+        "Definition":"An overarching term relating to the quality assurance (QA) of a website and the sub-editing of the content, ensuring that all of a brand's offering is compliant in terms of accuracy, consistency, quality and user experience. This can also relate to specific sector compliance, eg banking/alcohol.",
+        "Link": ["QA", "Sub-editing"]
+    },
+    {
+        "Term":"Content distribution platforms",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"Platforms for distributing and sharing branded content. These can range from sponsored Facebook posts and tweets to platforms such as Outbrain and Taboola, which promote branded content on high-profile media sites on a pay-per-click basis. ",
+        "Link": ["Pay-per-click"]
+    },
+    {
+        "Term":"Content governance",
+        "Tags": ["Editorial"],
+        "Definition":"A process that determines how a brand's content is created, published and distributed. Governance ensures that content is legally sound, has a consistent tone of voice across all channels and defines who takes ownership of creating and approving content. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Content Management System (CMS)",
+        "Tags": ["Tech"],
+        "Definition":"A web application that allows the creation, publishing, editing and overall management of content. Most CMSs include format management, version control, indexing, search and retrieval.",
+        "Link": [""]
+    },
+    {
+        "Term":"Content strategy",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"A high-level vision that guides the development of content to ensure it reaches the right audience, on the right platform, at the right time.",
+        "Link": [""]
+    },
+    {
+        "Term":"Contrast ratio",
+        "Tags": ["Accessibility"],
+        "Definition":"The difference between the brightest a screen can be, and the darkest. The Web Content Accessibility Guidelines require that text (and images of text) provide adequate contrast for people with visual impairments.",
+        "Link": ["http://www.w3.org/TR/WCAG20-TECHS/G18.html"]
+    },
+    {
+        "Term":"Conversation",
+        "Tags": ["Strategy"],
+        "Definition":"Metric that measures how many times a post is commented on or replied to on social media. See also amplification and applause.",
+        "Link": ["Amplification", "Applause"]
+    },
+    {
+        "Term":"Corporate Social Responsibility (CSR)",
+        "Tags": ["Strategy"],
+        "Definition":"The practice of managing the social, environmental and economic impacts of a company. It involves being responsive to those who are affected by the company's actions and behaving according to a set of agreed values. As part of its CSR work, for example, Zone gives each of its employees two paid volunteering days a year.",
+        "Link": [""]
+    },
+    {
+        "Term":"Creative brief",
+        "Tags": ["Account management"],
+        "Definition":"A brief that details a creative concept, including the insight that defines it and the problems that it solves. This can be written either by the agency or the client and should not include specific deliverables.",
+        "Link": ["Deliverable"]
+    },
+    {
+        "Term":"Creative coding",
+        "Tags": ["Tech"],
+        "Definition":"An artistic type of computer programming in which the goal is to create something expressive, for example live visuals, art installations or sound art.",
+        "Link": [""]
+    },
+    {
+        "Term":"Creative concepting",
+        "Tags": ["Strategy"],
+        "Definition":"The creative process â€“ taking an idea and bringing it to life in a way that articulates the message a brand wants to get across.",
+        "Link": [""]
+    },
+    {
+        "Term":"Creative technologist",
+        "Tags": ["Tech"],
+        "Definition":"Bridging the gap between the two disciplines, a creative technologist should be tech-focused but able to take a creative and strategic view of how to connect people and brands.",
+        "Link": [""]
+    },
+    {
+        "Term":"Crisis management",
+        "Tags": ["Editorial"],
+        "Definition":"A strategy to deal with unexpected events that could lead to negative sentiment and damage a brand's reputation. For example, a strategy to deal with potential negative sentiment around a brand's sponsorship of a major sporting event such as the Olympics. In social, a potential crisis can be contained if the brand conducts active listening and has effective community management.",
+        "Link": ["Active listening", "Community management"]
+    },
+    {
+        "Term":"CRM",
+        "Tags": ["Strategy"],
+        "Definition":"Usually defined as either Customer Relationship Management or Customer Relationship Marketing. Zone's CRM guru Gianfranco Cuzziol says it's both and neither. ",
+        "Link": [""]
+    },
+    {
+        "Term":"CSS",
+        "Tags": ["Tech"],
+        "Definition":"Cascading Style Sheets (CSS) is a style language that defines the look and feel of HTML documents. For example, CSS covers fonts, colours, margins, lines, height, width and background images. HTML is used to structure content; CSS is used for formatting structured content. The term 'cascading' is used because style declarations cascade down to elements from many origins.",
+        "Link": ["HTML"]
+    },
+    {
+        "Term":"Curation",
+        "Tags": ["Editorial"],
+        "Definition":"The process of discovering, gathering and presenting the best and most relevant (often third-party) content to a specific audience. It can be used alongside content creation to give added value to a brand's output and build long-term loyalty. For example the Girl Effect's Latest News page combines original articles with curated material to give a fully rounded view of the issues facing girls in the developing world. ",
+        "Link": ["http://www.girleffect.org/latest-news/"]
+    },
+    {
+        "Term":"Data Visualisation",
+        "Tags": ["Strategy", "Tech", "UX/Design"],
+        "Definition":"The presentation of data as pictures or graphs. This could take the form of an infographic, a map or a chart. Visualisation helps to present information in an engaging way and allows the reader to discover patterns that might otherwise be difficult to spot.",
+        "Link": ["Infographic"]
+    },
+    {
+        "Term":"Database",
+        "Tags": ["Tech"],
+        "Definition":"A collection of information that is organised so that it can easily be accessed, managed and updated.",
+        "Link": [""]
+    },
+    {
+        "Term":"DDA",
+        "Tags": ["Accessibility"],
+        "Definition":"The Disability Discrimination Act (1995) ensured that websites were accessible to blind and disabled users. It was superceded by the Equality Act in 2010.",
+        "Link": ["Equality Act (EQA)"]
+    },
+    {
+        "Term":"Deliverable",
+        "Tags": ["Account management"],
+        "Definition":"A product or service that is given to the client. A deliverable usually has a due date, is specific and measurable. They can be tangible, eg a report or a website; or intangible, eg the performance of a piece of software.",
+        "Link": [""]
+    },
+    {
+        "Term":"Design patterns",
+        "Tags": ["Tech", "UX/Design"],
+        "Definition":"A general, repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code, but rather a template for how to solve a problem that can be used in many situations.",
+        "Link": [""]
+    },
+    {
+        "Term":"Design principles",
+        "Tags": ["UX/Design"],
+        "Definition":"How a designer can best arrange the various elements of a page layout in connection to the overall design and to each other. The six basic design principles are: balance, proximity, alignment, repetition, contrast and space.",
+        "Link": [""]
+    },
+    {
+        "Term":"Diary study",
+        "Tags": ["UX/Design"],
+        "Definition":"A self-reporting research exercise in which the participant documents their experiences with a particular product or activity over a period of time. This can be done at the start of the design process to generate insights for ideas, at a later stage to test a prototype, or post-launch to gauge the effectiveness of certain features.",
+        "Link": [""]
+    },
+    {
+        "Term":"Digital Distractions",
+        "Tags": ["Zone"],
+        "Definition":"A weekly opinion piece on the world of digital, written by one of the thought leaders at Zone and delivered to a mailing list of more than 15,000 every Friday.",
+        "Link": [""]
+    },
+    {
+        "Term":"Direct cost",
+        "Tags": ["Finance"],
+        "Definition":"Outgoings of a business directly associated to production. In Timezone, direct costs are third-party hard costs, eg video or photography costs. They do not include freelancer invoices. ",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"Disruptive marketing",
+        "Tags": ["Strategy"],
+        "Definition":"Innovative marketing that 'disrupts' the flow of traditional marketing strategies, generating a great deal of interest without overtly trying to sell the product. For example, Red Bull's sponsorship of Felix Baumgartner's space jump or Dove's Real Beauty videos.",
+        "Link": [""]
+    },
+    {
+        "Term":"DNS (Domain Name Server)",
+        "Tags": ["Tech"],
+        "Definition":"DNS translates human-language domain names  (eg zonedigital.com, bbc.co.uk) into machine-readable IP addresses, allowing the user's computer to connect to the destination web server. ",
+        "Link": ["Domain name", "IP address"]
+    },
+    {
+        "Term":"Document grid",
+        "Tags": ["UX/Design"],
+        "Definition":"A grid used to align objects in InDesign (a desktop publishing program). The grid, which looks like graph paper, is non-printing, so is only seen on the designer's screen.",
+        "Link": [""]
+    },
+    {
+        "Term":"Domain name",
+        "Tags": ["Tech"],
+        "Definition":"The human-language name used to identify one or more IP addresses (eg zonedigital.com, bbc.co.uk). The top-level domains are to the right (eg .com, .co.uk), with mid-level domains to the left (eg zonedigital). The domain name makes up part of the URL. ",
+        "Link": ["IP address", "URL"]
+    },
+    {
+        "Term":"Domotica",
+        "Tags": ["Tech"],
+        "Definition":"A Spanish term relating to home automation, or 'smart' homes, which is tied in closely with the rise of the Internet of Things. Domotica may refer to smart lighting, heating or integrated devices that make life easier for elderly or disabled people. ",
+        "Link": ["Internet of Things"]
+    },
+    {
+        "Term":"Donuts",
+        "Tags": ["Zone"],
+        "Definition":"A graph that sits on each Zone staff member's Timezone home page, showing how their working time is being divided up between client work and non-client work (which includes training, leadership and cultural events). ",
+        "Link": [""]
+    },
+    {
+        "Term":"Dotmailer",
+        "Tags": ["Tech"],
+        "Definition":"A flexible, scalable email-marketing software that allows for third-party integration with CMSs such as Wordpress.",
+        "Link": ["http://www.dotmailer.com"]
+    },
+    {
+        "Term":"EARL",
+        "Tags": ["Accessibility"],
+        "Definition":"The Evaluation and Report Language (EARL) is a machine-readable format for expressing test results, such as those generated by web accessibility evaluation tools, using a vendor-neutral and platform-independent method.",
+        "Link": [""]
+    },
+    {
+        "Term":"EBITDA",
+        "Tags": ["Finance"],
+        "Definition":"Earnings before interest, taxation, depreciation and amortisation. This is a measure of a company's financial performance. It excludes elements such as interest and tax that are not in the company's control. All profit figures reported in Timezone are actually EBITDA.",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"Editor",
+        "Tags": ["Editorial"],
+        "Definition":"Editors at Zone are responsible for establishing and maintaining a brand's point of view and tone of voice, helping to devise content strategy, creating and ensuring the quality of content, managing workflow and being the editorial point of contact for the client.",
+        "Link": ["Point of view", "Tone of voice"]
+    },
+    {
+        "Term":"EPiServer",
+        "Tags": ["Tech"],
+        "Definition":"A web CMS software company that offers digital marketing and e-commerce solutions through its .NET CMS and e-commerce platform. An award-winning example of a site Zone built using EPiServer is Gatwick Airport.",
+        "Link": ["http://www.gatwickairport.com"]
+    },
+    {
+        "Term":"EQA",
+        "Tags": ["Accessibility"],
+        "Definition":"The Equality Act (EQA) 2010 replaced the DDA, and imposes a duty on service providers (including commercial websites) to make 'reasonable adjustments' to enable disabled persons to access their services.",
+        "Link": ["DDA"]
+    },
+    {
+        "Term":"Estimate",
+        "Tags": ["Account management", "production"],
+        "Definition":"An estimate is the final cost that forms the amount of money the client will pay the agency. While there may be some inaccuracy due to risk (+/-20 per cent), the agency puts into place mitigation plans for these scenarios. See also ballpark and indicative.",
+        "Link": ["Ballpark", "Indicative"]
+    },
+    {
+        "Term":"Exec",
+        "Tags": ["Zone"],
+        "Definition":"The team responsible for running the business at Zone are known as the Exec. ",
+        "Link": ["https://www.thisiszone.com/team/"]
+    },
+    {
+        "Term":"Experience mapping",
+        "Tags": ["UX/Design"],
+        "Definition":"A representation of consumers' experiences in their different interactions with a brand or service, often in the form of a flow chart. An experience map is an important tool in understanding product/service interactions from users' point of view.",
+        "Link": [""]
+    },
+    {
+        "Term":"Expert review",
+        "Tags": ["UX/Design"],
+        "Definition":"Where a usability expert uses their knowledge and experience to test a website, product or service through the eyes of a typical user. The expert will spot problems and recommend changes to improve usability. An expert review can be used when budgets and timescales don't allow for full user research.",
+        "Link": [""]
+    },
+    {
+        "Term":"Exploratory testing",
+        "Tags": ["Tech"],
+        "Definition":"An approach to software assessment that integrates learning about the program with designing the test and conducting the testing processes. The simultaneous process ensures that developers have a better understanding of how it should work, can create more effective tests and, as a result, be better equipped to find problems.",
+        "Link": [""]
+    },
+    {
+        "Term":"F#",
+        "Tags": ["Tech"],
+        "Definition":"F# is a strongly typed, functional-first language for the .NET programme that lets programmers solve complex problems by writing simple code.",
+        "Link": [".NET"]
+    },
+    {
+        "Term":"Fangs",
+        "Tags": ["Accessibility"],
+        "Definition":"Fangs makes a text version of a web page appear as it would through a screen reader, thereby helping developers understand how an assistive device presents a website and making it easier for them to find any accessibility issues. ",
+        "Link": ["Screen reader"]
+    },
+    {
+        "Term":"Five Whys",
+        "Tags": ["Production"],
+        "Definition":"A simple problem-solving exercise designed to unearth the root of any problem or unexpected situation by repeating the question ",
+        "Link": [""]
+    },
+    {
+        "Term":"Formative research",
+        "Tags": ["UX/Design"],
+        "Definition":"Exploratory research done at the beginning of a design project (often called the 'discovery phase') to guide the entire process. It is used to gain insight and to test concepts, product or message design with the target audience.",
+        "Link": [""]
+    },
+    {
+        "Term":"Freelance cost",
+        "Tags": ["Finance"],
+        "Definition":"In Timezone, this is the cost of any freelancers timesheeting against a certain project.",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"Front-end development",
+        "Tags": ["Tech"],
+        "Definition":"The coding of the front end of a website, ie the part that a user sees and directly interacts with. Typically, a front-end developer will convert design files into HTML, CSS and JavaScript for a website or application. The end result is code which is used by a back-end developer to add processes and databases. ",
+        "Link": ["HTML", "CSS", "JavaScript", "Backend development"]
+    },
+    {
+        "Term":"Functional spec",
+        "Tags": ["Production"],
+        "Definition":"A document that details all of the functionality on a website or tool. It should detail all the interactions that the user can make.",
+        "Link": [""]
+    },
+    {
+        "Term":"Functional testing",
+        "Tags": ["Tech"],
+        "Definition":"A QA process that checks software to ensure it has all the required functionality specified within its requirements.",
+        "Link": [""]
+    },
+    {
+        "Term":"Gantt chart",
+        "Tags": ["Production"],
+        "Definition":"A type of bar chart that illustrates a project schedule. It shows the start and finish dates of each of the different elements that comprise the project. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Git",
+        "Tags": ["Tech"],
+        "Definition":"An open-source version control system for software development. It allows developers to collaborate on a project without overriding each other's changes.",
+        "Link": ["Version control"]
+    },
+    {
+        "Term":"Gitflow",
+        "Tags": ["Tech"],
+        "Definition":"A branching model for Git, Gitflow allows developers to work in parallel on the same project, as it isolates new development from finished work.",
+        "Link": ["Git", "Version control"]
+    },
+    {
+        "Term":"GitHub",
+        "Tags": ["Tech"],
+        "Definition":"A Git repository hosting service, GitHub is effectively a social network where developers can collaborate. GitHub allows devs to browse othe users' projects and download copies to modify and learn from. ",
+        "Link": ["Git", "Version control"]
+    },
+    {
+        "Term":"Guerrilla research",
+        "Tags": ["UX/Design"],
+        "Definition":"A low-cost method of user testing conducted out in the 'wild' (eg train station, shopping centre) without pre-arranged recruitment. It aims to quickly assess how effective a design is on its intended audience, eg whether a product works as it should or if a brand proposition is clear.  ",
+        "Link": [""]
+    },
+    {
+        "Term":"Hackathon",
+        "Tags": ["Tech"],
+        "Definition":"An event in which people come together as teams to work intensely (often over a 24- or 48-hour period with little or no sleep) on creating a digital project. Often there is a specific brief to work towards, with the teams' solutions evaluated by a panel of judges who may award prizes. At #Zonehack 2015, for example, the teams (consisting of developers, strategists, QA specialists and designers) came up with ways to help people self-manage an illness, disability or lifestyle choice.",
+        "Link": ["https://www.thisiszone.com/uk/news/building-brilliance-in-bristol-at-zonehack-2015/"]
+    },
+    {
+        "Term":"Hierarchy",
+        "Tags": ["UX/Design"],
+        "Definition":"A concept whereby a designer uses colour, contrast, texture, shape, position, orientation and size to organise elements on a web page to give the user a sense of visual importance.",
+        "Link": [""]
+    },
+    {
+        "Term":"HTML",
+        "Tags": ["Tech"],
+        "Definition":"HTML (HyperText Markup Language) is the standard markup language used to create web pages. When writing HTML, programmers add tags to the text to create the structure. Web browsers then read the HTML files to render the page that is visible to the end user.",
+        "Link": [""]
+    },
+    {
+        "Term":"Indicative",
+        "Tags": ["Account management", "production"],
+        "Definition":"A cost that is given during scoping. Requirements are known but may not have been fully considered and scoped. This has an accuracy of +/-50 per cent.",
+        "Link": ["Scoping"]
+    },
+    {
+        "Term":"Influencer outreach",
+        "Tags": ["Editorial"],
+        "Definition":"Brands working with influencers to create original content that promotes their goods or services. Blogger outreach is an important aspect of influencer outreach, but it also includes using a celebrity's reach to gain a massive spike in awareness, for example Stephen Fry tweeting about Prostate Cancer UK's Men United campaign. As with blogger outreach, however, influencer outreach is more successful when there is a shared passion between both parties.",
+        "Link": ["Blogger outreach"]
+    },
+    {
+        "Term":"Infographic",
+        "Tags": ["Editorial", "Strategy", "UX/Design"],
+        "Definition":"A visual representation of data designed to make complex information easily understandable at a glance. An infographic uses graphs, charts, pictures, timelines and maps to turn data into an engaging, sharable story and should focus on providing insights to the reader. See also data visualisation.",
+        "Link": ["Data visualisation"]
+    },
+    {
+        "Term":"Information architecture (IA)",
+        "Tags": ["UX/Design"],
+        "Definition":"Organising, structuring and labelling a website to support usability, based on principles that have been derived from research. Part of the process will usually include the creation of a sitemap and wireframes.",
+        "Link": ["Sitemap", "Wireframe"]
+    },
+    {
+        "Term":"Interaction design",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of connecting the digital world to the human one through design. It involves making things that are screen-based appear real and function in the digital space as they would in the physical space, therefore helping users interact with digital products and devices. ",
+        "Link": [""]
+    },
+    {
+        "Term":"IoT (The Internet of Things)",
+        "Tags": ["Tech"],
+        "Definition":"The IoT refers to connecting devices over the internet, allowing them to talk to us, applications and each other. In the home, the IoT is widely used in the shape of smart heating and energy use devices, while fitness bands and other healthcare apps are becoming more prevalent.",
+        "Link": [""]
+    },
+    {
+        "Term":"IP address",
+        "Tags": ["Tech"],
+        "Definition":"An IP (Internet Protocol) address is a unique string of numbers all digital devices (printers, routers, modems, et al) use which identifies them and allows them to communicate across a network.",
+        "Link": [""]
+    },
+    {
+        "Term":"Java",
+        "Tags": ["Tech"],
+        "Definition":"An object-oriented programming language. It was designed to have the look and feel of the C++ language, but is simpler to use.",
+        "Link": ["Object-oriented programming", "C++"]
+    },
+    {
+        "Term":"JavaScript",
+        "Tags": ["Tech"],
+        "Definition":"Not to be confused with Java, JavaScript is an object-orientated programming scripting language for web pages. It is one of the three essential technologies of web content, alongside HTML and CSS; the majority of websites use it and it is supported by all web browsers. ",
+        "Link": ["Object-oriented programming", "HTML", "CSS"]
+    },
+    {
+        "Term":"JAWS",
+        "Tags": ["Accessibility"],
+        "Definition":"JAWS (Job Access With Speech) is a screen reader that allows blind and visually impaired users to read either with a text-to-speech output or by a Refreshable Braille display.",
+        "Link": ["Screen reader"]
+    },
+    {
+        "Term":"Key Performance Indicator (KPI)",
+        "Tags": ["Strategy"],
+        "Definition":"The numbers against which the success of a project can be measured. The KPIs should be considered before a solution is agreed and any tracking required to measure them must be in place before launch.",
+        "Link": [""]
+    },
+    {
+        "Term":"Load balancing",
+        "Tags": ["Tech"],
+        "Definition":"Dividing the amount of work a computer has to do between two or more computers, so that more work gets done in the same amount of time and, in general, all users get served faster.",
+        "Link": [""]
+    },
+    {
+        "Term":"Localisation",
+        "Tags": ["UX/Design"],
+        "Definition":"The translation and adaptation of content for foreign markets.",
+        "Link": [""]
+    },
+    {
+        "Term":"MCCM (multi-channel campaign management)",
+        "Tags": ["Tech"],
+        "Definition":"The practice of interacting with customers using a combination of indirect and direct communication channels â€“ websites, email, mobile, etc â€“ and enabling customers to take action in response using the channel of their choice.",
+        "Link": [""]
+    },
+    {
+        "Term":"Meme",
+        "Tags": ["Editorial"],
+        "Definition":"A piece of content or an idea (usually with a funny or provocative caption) that spreads rapidly across the web. Memes differ from viral content in that they change and evolve along the way, rather than simply being shared.",
+        "Link": ["Viral content"]
+    },
+    {
+        "Term":"Mental model",
+        "Tags": ["UX/Design"],
+        "Definition":"A person's thought process for how something (eg a device, software) works. Mental models come from past experiences, assumptions they may have and things other people have said, and will influence that person's actions and behaviour.",
+        "Link": [""]
+    },
+    {
+        "Term":"Metadata",
+        "Tags": ["Tech"],
+        "Definition":"Any content on the page that is not visible on the front end but is accessible from external pages. This can include tags, keywords, summary text, location data or anything else. This can be used by search engines, social media sites or even other sections of the same website.",
+        "Link": [""]
+    },
+    {
+        "Term":"Mock-up",
+        "Tags": ["UX/Design"],
+        "Definition":"A realistic digital representation of what a website or app will look like. Mock-ups differ from wireframes in that they are more detailed and all elements are placed in what is intended to be their exact position. Mock-ups can also be the ideal time for user testing.",
+        "Link": ["Wireframe"]
+    },
+    {
+        "Term":"Moderated testing",
+        "Tags": ["UX/Design"],
+        "Definition":"A form of user testing in which a moderator interacts with participants during the testing. This can be done in person or remotely. Moderated testing is particularly suited to complex tasks that don't have a structured sequence of steps or where interaction and questioning will benefit the testing.",
+        "Link": [""]
+    },
+    {
+        "Term":"Mutant T-shaped people",
+        "Tags": ["Zone"],
+        "Definition":"T-shaped people have a deep expertise in one discipline (the spine of the T), with a broad understanding of the digital world and the roles of other functions. Mutant T-shaped people have deep expertise in two or more disciplines (often due to a change in career), giving them a stronger combination of skills.",
+        "Link": [""]
+    },
+    {
+        "Term":"MVC",
+        "Tags": ["Tech"],
+        "Definition":"MVC (Model-View-Controller) is a design pattern for writing software. The model represents the data (and nothing else); the view displays the model data and sends user actions to the controller; and the controller provides model data to the view. In some cases, the view and the controller are the same object.",
+        "Link": [""]
+    },
+    {
+        "Term":"Native advertising ",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"A form of paid media in which the advert follows the form and function of the platform on which it appears. The IAB (Interactive Advertising Bureau) has split native ads into six categories: in-feed ads (eg Buzzfeed's sponsored articles); search (eg Google ads); recommendation widgets (eg Outbrain or other 'You might also like' content); promoted listings (eg Amazon sponsored products); standard banner ads; and custom. Given that they are designed to blend in with their surroundings, native ads must be clearly marked to help the consumer distinguish between advertising and editorial content.",
+        "Link": [""]
+    },
+    {
+        "Term":"Native app",
+        "Tags": ["Tech"],
+        "Definition":"An application that is written for a specific platform or device. Native apps are installed in an app store, can make use of a device's tech such as GPS and camera, and some can be used without an internet connection. Web apps differ in that they are mobile-optimised web pages that look like apps.",
+        "Link": [""]
+    },
+    {
+        "Term":".NET",
+        "Tags": ["Tech"],
+        "Definition":"A software programming framework created by Microsoft that helps developers to create applications more easily. ",
+        "Link": ["http://www.microsoft.com/net"]
+    },
+    {
+        "Term":"Newsroom",
+        "Tags": ["Editorial"],
+        "Definition":"Responding to events quickly by producing content that reflects what's happening in news and culture. This can take the form of a witty tweet, a response to a trending topic or a daily news dispatch that is relevant to a brand's target audience. An example of the latter is Zone's work on behalf of shipping company Maersk at the World Trade Organisation's #Aid4Trade summit. Zone tweeted throughout the summit on behalf of Maersk and produced a 'Top 5 takeouts' infographic at the end of each day. See also agile marketing and active listening.",
+        "Link": ["Agile marketing", "Active listening"]
+    },
+    {
+        "Term":"NVDA",
+        "Tags": ["Accessibility"],
+        "Definition":"NonVisual Desktop Access (NVDA) is a free screen reader for Microsoft Windows that enables blind and visually impaired people to use computers.",
+        "Link": ["Screen reader"]
+    },
+    {
+        "Term":"Object Oriented Programming",
+        "Tags": ["Tech"],
+        "Definition":"A programming language model organised around objects and data rather than actions and logic. Most modern programming languages are object-oriented, including C++, Java and Python.",
+        "Link": ["C++", "Java", "Python"]
+    },
+    {
+        "Term":"Objective-C",
+        "Tags": ["Tech"],
+        "Definition":"The programming language used by Apple and its developers to create iPhone, iPad and Mac apps.",
+        "Link": [""]
+    },
+    {
+        "Term":"Octopus Deploy",
+        "Tags": ["Tech"],
+        "Definition":"An automated release management tool for .NET developers. Octopus deploys applications into test, staging and production environments, either in the cloud or on premises.",
+        "Link": ["https://octopus.com", ".NET"]
+    },
+    {
+        "Term":"Open source",
+        "Tags": ["Tech"],
+        "Definition":"A program in which the source code is freely available for use or modification as users or other developers see fit. Examples include Java and Python.",
+        "Link": ["Java", "Python"]
+    },
+    {
+        "Term":"ORCA",
+        "Tags": ["Accessibility"],
+        "Definition":"A free screen reader from the GNOME Project that enables blind and visually impaired people to use computers.",
+        "Link": ["https://wiki.gnome.org/action/show/Projects/Orca?action=show&redirect=Orca", "Screen reader"]
+    },
+    {
+        "Term":"Overhead",
+        "Tags": ["Finance"],
+        "Definition":"Costs that are not directly associated with production. For example, rent or the cost of cleaning the office.",
+        "Link": [""]
+    },
+    {
+        "Term":"Participatory design",
+        "Tags": ["UX/Design"],
+        "Definition":"An approach to design that actively attempts to involve all stakeholders (eg employees, customers, end users) in the process to help ensure the end product meets their needs.",
+        "Link": [""]
+    },
+    {
+        "Term":"Pay Per Click (PPC)",
+        "Tags": ["Strategy"],
+        "Definition":"A form of internet marketing in which the advertiser pays a fee each time their ad or sponsored content is clicked on, regardless of whether a sale is made. In search engine advertising (eg Google Adwords) the advertiser typically bids on keywords, so the PPC rate changes. On a single website, the publisher would normally set a fixed rate.",
+        "Link": [""]
+    },
+    {
+        "Term":"Performance testing",
+        "Tags": ["Tech"],
+        "Definition":"The process of determining the speed or effectiveness of a computer, network, software program or device in particular situations.",
+        "Link": [""]
+    },
+    {
+        "Term":"Personalisation",
+        "Tags": ["Tech", "UX/Design", "Strategy"],
+        "Definition":"Giving users content that is tailored to their interests, needs and/or location, based on insights such as purchase history, social preferences and recent behaviour. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Personas",
+        "Tags": ["UX/Design"],
+        "Definition":"Fictitious characters created to represent the different needs and user types for a website, product or service. Typically, personas are created using data from interviews with users. They are very useful in helping to create realistic user journeys, guiding the design process and in ongoing product development.",
+        "Link": ["User journey"]
+    },
+    {
+        "Term":"Phase",
+        "Tags": ["Production"],
+        "Definition":"There are six phases in software development: requirement gathering and analysis; design; implementation or coding; testing; deployment; maintenance.",
+        "Link": [""]
+    },
+    {
+        "Term":"PhoneGap",
+        "Tags": ["Tech"],
+        "Definition":"A free and open source framework for building cross-platform mobile apps using HTML, JavaScript and CSS.",
+        "Link": ["Open source", "HTML", "JavaScript", "CSS"]
+    },
+    {
+        "Term":"Planned agility",
+        "Tags": ["Editorial"],
+        "Definition":"A form of agile marketing in which the brand prepares content for a certain event, then is able to respond quickly on social media during the event itself. This may include design and pre-production of Vines or tweets, or writing (and getting client sign-off) for tweets relating to different scenarios that may occur â€“ for example, Zone's live commentary on the Eurovision Song Contest for the @Tesco Twitter feed.",
+        "Link": ["Agile marketing"]
+    },
+    {
+        "Term":"Point of view",
+        "Tags": ["Editorial"],
+        "Definition":"Inspired by the traditional publishing approach, whereby newspapers report on the same news, but differentiate via their unique opinion or viewpoint. A point of view is how a brand sees the world, what it thinks is important and how it sees its role in that world. A strong and consistent brand POV should shine through in all of its communications and be easily understood by all of its employees and customers.",
+        "Link": [""]
+    },
+    {
+        "Term":"Pomodoro technique",
+        "Tags": ["Production"],
+        "Definition":"A time management method that breaks down work into intervals, traditionally 25 minutes long, separated by short breaks. The method is based on the idea that frequent breaks can improve mental agility.",
+        "Link": [""]
+    },
+    {
+        "Term":"Posting strategy",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"Deciding what, where and when to post content on social media. Considerations include frequency, timing, what type of content (image, video, link etc) and which platform. Using analytics and audience insights can help to plan an optimal posting strategy.",
+        "Link": ["Analytics"]
+    },
+    {
+        "Term":"Prepaid income/ASR",
+        "Tags": ["Finance"],
+        "Definition":"A type of arrangement with a client in which Zone invoices for a fixed number of days in advance of doing the work. This usually happens where a client wishes to make ongoing ad hoc enhancements to functionality built by Zone and would like to ensure availability of resource (usually tech) to do the work throughout the year.",
+        "Link": [""]
+    },
+    {
+        "Term":"Profit and loss (P&L)",
+        "Tags": ["Finance"],
+        "Definition":"For a company, this is a report of revenues minus all types of costs resulting in a profit (or loss) for a period.  In Timezone, it is a report of the project's agreed budget minus direct and freelance costs, labour costs timesheeted on the project and allocated overheads. P&Ls can be aggregated to client and client group levels and ultimately to the P&L of Zone as a whole.",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"Programmatic",
+        "Tags": ["Strategy"],
+        "Definition":"Programmatic buying refers to any ad space bought automatically on a web page, through either bidding for the space or buying it directly, based on information about the web page and the user viewing it. Programmatic RTB (real-time bidding) involves an auction for ad space on web pages (along the same lines as Google Adwords) which takes place as the web page loads, whereas Programmatic Direct is an automated process for guaranteed ad space. Programmatic helps marketers target their ads more relevantly across a range of sites and manage their budgets in real time.",
+        "Link": [""]
+    },
+    {
+        "Term":"Proof",
+        "Tags": ["Editorial", "UX/Design"],
+        "Definition":"A copy of the final design to be checked for design (colours, positioning etc) and accuracy of content (although it should have already been through the subbing process). A hard copy (printed page) and soft copy (a PDF) is sent by the printers for final sign-off. ",
+        "Link": ["Subbing"]
+    },
+    {
+        "Term":"Prototype",
+        "Tags": ["UX/Design"],
+        "Definition":"An interactive mock-up of the final product, prototypes allows designers to test the feasibility and usablilty of their designs before creating the high-fidelity version. ",
+        "Link": ["Mock-up"]
+    },
+    {
+        "Term":"Python",
+        "Tags": ["Tech"],
+        "Definition":"A general purpose, object-orientated programming language comparable to Java.",
+        "Link": ["Object-oriented programming", "Java"]
+    },
+    {
+        "Term":"QA",
+        "Tags": ["Tech"],
+        "Definition":"Quality assurance (QA) is the systematic process of checking to see whether a product or service being developed is meeting specified requirements.",
+        "Link": [""]
+    },
+    {
+        "Term":"Qualitative research",
+        "Tags": ["UX/Design"],
+        "Definition":"Research used to gain an understanding of underlying reasons, opinions and motivations, either in the formative stage of a project or in user testing. Qualitative research gathers information that cannot be counted, for example through depth interviews, open-ended questionnaires, ethnographic research and focus groups.",
+        "Link": [""]
+    },
+    {
+        "Term":"RACI matrix",
+        "Tags": ["Production"],
+        "Definition":"A RACI (Responsible, Accountable, Consulted and Informed) matrix clarifies roles and responsibilities within a project. It is especially useful in cross-functional/departmental projects and processes. ",
+        "Link": [""]
+    },
+    {
+        "Term":"RAD",
+        "Tags": ["Production"],
+        "Definition":"RAD (rapid application development) is an approach to software development that focuses on rapid prototyping rather than rigorous specification and planning, as emphasised by the waterfall model.",
+        "Link": ["Waterfall"]
+    },
+    {
+        "Term":"RAG",
+        "Tags": ["Production"],
+        "Definition":"A RAG report is a project status report broken down into Red, Amber and Green categories. Red means there are significant issues, and corrective action is required in order to meet business objectives. An Amber status shows that a problem is having a negative effect on project performance, but it can be dealt with. Green indicates that the project is performing to plan and budget is not currently at risk of overspend.",
+        "Link": [""]
+    },
+    {
+        "Term":"Raster",
+        "Tags": ["UX/Design"],
+        "Definition":"The rectangular area of a display screen actually being used to display images. The raster is slightly smaller than the physical dimensions of the display screen.",
+        "Link": [""]
+    },
+    {
+        "Term":"Re-skin",
+        "Tags": ["Tech", "UX/Design"],
+        "Definition":"Changing the visual appearance of an app or website without changing the functionality or architecture (all of the changes are made in CSS). Re-skinning could mean changing the colours, fonts, photography and menus, either to freshen up an existing site or to repurpose the code for a new site.",
+        "Link": ["CSS"]
+    },
+    {
+        "Term":"Readability",
+        "Tags": ["Editorial", "UX/Design"],
+        "Definition":"How easy a piece of writing is to read and understand. The principles for web readability differ from print as it is thought that online readers are more likely to scan the text rather than read it word-for-word. Readability factors include choice and size of font, line spacing, contrast, short sentences and paragraphs, use of highlighting, bullet points and lists and language. Zone also uses the Flesch-Kincaid readability tests.",
+        "Link": ["https://en.wikipedia.org/wiki/Flesch-Kincaid_readability_tests"]
+    },
+    {
+        "Term":"Real-time marketing",
+        "Tags": ["Editorial"],
+        "Definition":"A form of agile marketing that involves reacting to news and major events as they happen, normally in the form of a tweet or a Vine. See also newsroom.",
+        "Link": ["Agile marketing Newsroom"]
+    },
+    {
+        "Term":"Regression testing",
+        "Tags": ["Tech"],
+        "Definition":"The process of testing changes to computer programs to make sure that the existing functions still work as intended.",
+        "Link": [""]
+    },
+    {
+        "Term":"Remote testing",
+        "Tags": ["UX/Design"],
+        "Definition":"User research done with participants who are not in a 'lab' setting. The testing can be moderated, in which the researcher watches via screen-sharing software and interacts with the participant via email or phone, or unmoderated.",
+        "Link": [""]
+    },
+    {
+        "Term":"Render",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of adding shading, colour and lamination to a wireframe in order to create life-like images on a screen.",
+        "Link": [""]
+    },
+    {
+        "Term":"Resources",
+        "Tags": ["Production"],
+        "Definition":"Resources are what is required to carry out the tasks of a project. They can be people, equipment, facilities, funding or anything else needed to complete an activity.",
+        "Link": [""]
+    },
+    {
+        "Term":"Response to brief",
+        "Tags": ["Account management"],
+        "Definition":"The agency's initial response to a brief for a piece of work. While nothing in this document is committed to, it shows an intention to work and may give top-level details on costs and scope.",
+        "Link": [""]
+    },
+    {
+        "Term":"Responsive design",
+        "Tags": ["Tech", "UX/Design"],
+        "Definition":"A technique for building websites in which the site automatically adjusts based on the device (desktop, tablet or smartphone) the viewer is using.",
+        "Link": [""]
+    },
+    {
+        "Term":"RESTful programming",
+        "Tags": ["Tech"],
+        "Definition":"REpresentational State Transfer (REST) is the architectural style of the web. RESTful programming refers to systems that conform to the constraints of REST.",
+        "Link": [""]
+    },
+    {
+        "Term":"Retainer",
+        "Tags": ["Account management", "production"],
+        "Definition":"A regular payment in exchange for work. Retainers should be for a fixed period and have defined deliverables for each period.",
+        "Link": ["Deliverable"]
+    },
+    {
+        "Term":"Retouching",
+        "Tags": ["UX/Design"],
+        "Definition":"Alteration of a photo, artwork or graphic to prepare it for final presentation. Retouching can mean enhancing desired features (adjusting colours, filters, contrasts etc) or reducing (or eliminating) unwanted elements.",
+        "Link": [""]
+    },
+    {
+        "Term":"Return on Investment (ROI)",
+        "Tags": ["Strategy"],
+        "Definition":"The measurable value of a brand's marketing efforts, in terms of lead generation, customer retention, sales and other agreed metrics.",
+        "Link": [""]
+    },
+    {
+        "Term":"Revenue",
+        "Tags": ["Finance"],
+        "Definition":"Income earned by a business over a period of time. In Timezone, revenue is the sum of all project budgets that are quote-accepted or invoiced in status during a specific period.",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"RFI",
+        "Tags": ["Account management"],
+        "Definition":"An RFI (request for information) is sent out by a company to collect information from a supplier, with no commitment from either party to engage in any particular project. It is unlikely that any project details would be provided by the company. Instead the supplier's response focuses on their capabilities, skills and experience. See also RFP.",
+        "Link": ["RFP"]
+    },
+    {
+        "Term":"RFP",
+        "Tags": ["Account management"],
+        "Definition":"An RFP (request for proposal) is a document sent out by companies inviting potential suppliers to submit proposals to take on a business project. The RFP should detail the company's needs and expectations, which the supplier responds to in specific terms, usually including pricing details. See also RFI.",
+        "Link": ["RFI"]
+    },
+    {
+        "Term":"RGB",
+        "Tags": ["UX/Design"],
+        "Definition":"RGB stands for red-green-blue, and is the model used for representing colours on a computer screen. The three primary colours can be combined to produce any colour in the spectrum. See also CMYK. ",
+        "Link": ["CMYK"]
+    },
+    {
+        "Term":"Rich media",
+        "Tags": ["UX/Design"],
+        "Definition":"Online content that includes advanced features such as video, audio or other elements that encourage viewers to interact and engage with the content.",
+        "Link": [""]
+    },
+    {
+        "Term":"RNIB",
+        "Tags": ["Accessibility"],
+        "Definition":"The Royal National Institute of Blind People, a UK charity offering information, support and advice to almost two million people in the UK with sight loss.",
+        "Link": [""]
+    },
+    {
+        "Term":"Sass",
+        "Tags": ["Tech"],
+        "Definition":"Sass stands for syntactically awesome stylesheets. It is an extention language for CSS that allows programmers to simplify their work and makes it easier to change things at a later date.",
+        "Link": ["CSS"]
+    },
+    {
+        "Term":"Scala",
+        "Tags": ["Tech"],
+        "Definition":"Scala (scalable language) is a programming language that incorporates both object-oriented and functional programming into a concise, logical and powerful language.",
+        "Link": ["Object-oriented programming"]
+    },
+    {
+        "Term":"Scamp",
+        "Tags": ["UX/Design"],
+        "Definition":"A quick, rough-drawn sketch of a webpage that shows how the content could be displayed without any element of visual design. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Scoping",
+        "Tags": ["Production"],
+        "Definition":"The part of project planning that involves determining and documenting a list of specific project goals, deliverables, tasks, costs and deadlines.",
+        "Link": [""]
+    },
+    {
+        "Term":"Scoping document",
+        "Tags": ["Production"],
+        "Definition":"An exploratory document that seeks to find all requirements for a given project, allowing the agency to accurately scope it.",
+        "Link": [""]
+    },
+    {
+        "Term":"Screen reader",
+        "Tags": ["Tech", "Accessibility"],
+        "Definition":"A software application that enables blind or visually impaired users to use a computer. They work with the computer's operating system to provide information about icons, menus, dialogue boxes, files and folders. Screen readers can use speech or Braille to guide the user â€“ some use a combination of both.",
+        "Link": [""]
+    },
+    {
+        "Term":"Screen resolution",
+        "Tags": ["UX/Design"],
+        "Definition":"The number of pixels on a computer screen. At higher resolutions, text and images will appear sharper. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Scrum",
+        "Tags": ["Production"],
+        "Definition":"An agile framework originally designed for software development, but now widely used for completing any complex projects. It involves multiple small teams working in an intensive and interdependent manner, and employs real-time decision-making processes based on actual events and information. The project manager in scrum is known as the scrum master.",
+        "Link": ["Agile software development methodology"]
+    },
+    {
+        "Term":"Search Engine Marketing (SEM)",
+        "Tags": ["Strategy"],
+        "Definition":"The process of gaining traffic and visibility from search engines through both paid and unpaid efforts. This includes SEO, but is mainly focused on pay-per-click and other forms of paid search.",
+        "Link": ["SEO Pay-per-click"]
+    },
+    {
+        "Term":"Search Engine Optimisation (SEO)",
+        "Tags": ["Strategy"],
+        "Definition":"The process of making a website relevant and important so that it ranks high in the organic (non-paid) search results for a particular word. Best practices include use of specific keywords, unique content and quality of links. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Section 508",
+        "Tags": ["Accessibility"],
+        "Definition":"A US law that requires all website content to be accessible to people with disabilities.",
+        "Link": [""]
+    },
+    {
+        "Term":"Security Testing",
+        "Tags": ["Tech"],
+        "Definition":"A type of software testing that intends to uncover vulnerabilities of the system and determines whether its data and resources are protected from possible intruders.",
+        "Link": [""]
+    },
+    {
+        "Term":"Sentiment",
+        "Tags": ["Strategy"],
+        "Definition":"The way customers or potential customers are talking about a brand â€“ sentiment can be positive, negative or neutral. On social media, sentiment can be gauged by active listening and can be measured using metrics such as amplification, applause and conversation.",
+        "Link": ["Active listening", "Amplification", "Applause", "Conversation"]
+    },
+    {
+        "Term":"Service design",
+        "Tags": ["UX/Design"],
+        "Definition":"The shaping of holistic service experiences according to the needs of customers or service users, so that the service delivered is user-friendly, competitive and relevant. This includes consideration of the systems that link the various touchpoints â€“ points at which a customer interacts with the service offering.",
+        "Link": [""]
+    },
+    {
+        "Term":"Sitemap",
+        "Tags": ["UX/Design"],
+        "Definition":"A list of pages of a website that is accessible to search engine web crawlers or users. A sitemap is created as part of the information architecture process.",
+        "Link": ["Information architecture"]
+    },
+    {
+        "Term":"SLA",
+        "Tags": ["Production"],
+        "Definition":"A Service Level Agreement is a contract to be agreed by both agency and client that dictates the level of service to be provided. This might be used in a hosting agreement to define response times to issues.",
+        "Link": [""]
+    },
+    {
+        "Term":"Social advertising",
+        "Tags": ["Strategy"],
+        "Definition":"Advertising on social media channels such as Twitter and Facebook through sponsored posts, stories, promoted links or trends.",
+        "Link": [""]
+    },
+    {
+        "Term":"Social calendar",
+        "Tags": ["Editorial"],
+        "Definition":"A plan that shows the social media posting strategy for a brand over a certain period, eg a week or a month. The calendar should show the planned copy, images and links, when it is to be published and on what platform, taking into account relevant events and holidays. Using a content calendar helps to ensure that posts are consistent, relevant to the strategy and means that there is time built in for editing and client sign-off.",
+        "Link": ["Posting strategy"]
+    },
+    {
+        "Term":"Social customer care",
+        "Tags": ["Editorial"],
+        "Definition":"Engaging with customers and potential customers on social media to build trust and brand loyalty. In particular, customer care on social means dealing quickly and efficiently with queries, sorting out problems and giving important announcements. Effective social customer care is a key part of crisis management and can turn potentially negative sentiment into good PR. See also active listening.",
+        "Link": ["Crisis management", "Active listening"]
+    },
+    {
+        "Term":"Social proof",
+        "Tags": ["UX/Design"],
+        "Definition":"Social proof is the process of people being guided by other people's behaviours. In UX terms, social proof means representing the actions, beliefs and advice of the crowd in a design to influence users.",
+        "Link": [""]
+    },
+    {
+        "Term":"Sockets (WebSockets)",
+        "Tags": ["Tech"],
+        "Definition":"WebSockets make it possible to open an interactive communication session between the user's browser and a server. This means the user can send messages to a server and receive event-driven responses without having to poll the server for a reply.",
+        "Link": [""]
+    },
+    {
+        "Term":"SpeakIT",
+        "Tags": ["Accessibility"],
+        "Definition":"A web accessibility tool that converts text into synthetic speech.",
+        "Link": [""]
+    },
+    {
+        "Term":"Sponsored content",
+        "Tags": ["Editorial"],
+        "Definition":"When a brand pays a publisher to have its name or message associated with a piece of content. Although there is some disagreement over what constitutes sponsored content, typically it will be created by the publisher, not the brand, and although the brand will have some say over the topic of the piece, it will not get approval over the content. See also native advertising.",
+        "Link": ["Native advertising"]
+    },
+    {
+        "Term":"Sprint",
+        "Tags": ["Production"],
+        "Definition":"A set period of time (between a week and a month) in which specific work has to be completed and made ready for review. Sprints, also known as iterations, are the basic unit of development in scrum and a key part of the agile methodology. Each sprint starts with a planning session that defines a sprint backlog, identifies the work for the sprint and makes an estimated commitment for the sprint goal. At the end of each sprint, a retrospective is held to identify lessons and improvements for the next sprint.",
+        "Link": ["Scrum", "Agile software development methodology"]
+    },
+    {
+        "Term":"Staff cost",
+        "Tags": ["Finance"],
+        "Definition":"In Timezone, staff costs are the total of all salaries and National Insurance paid to full-time UK staff.",
+        "Link": ["Timezone"]
+    },
+    {
+        "Term":"Statement of Work",
+        "Tags": ["Production"],
+        "Definition":"A document that captures and defines the work activities and deliverables an agency must accomplish under the terms of the contract. The SOW will give the timeline and usually includes detailed requirements, pricing and how success will be measured.",
+        "Link": ["Deliverables"]
+    },
+    {
+        "Term":"Storyboard",
+        "Tags": ["UX/Design"],
+        "Definition":"A series of images displayed in sequence to show how a design or service should function. In UX, personas can be used in the storyboarding process to give real-life context. ",
+        "Link": ["Personas"]
+    },
+    {
+        "Term":"Style guide",
+        "Tags": ["Editorial"],
+        "Definition":"An alphabetical reference guide that establishes the 'house' rules for language, spelling, punctuation and grammar. A style guide ensures consistency of language across all of a brand's output, promoting good grammar and providing clear guidelines in areas which may otherwise be unclear (eg whether to write 'per cent', 'percent' or %). Zone has a style guide for all of its own output, but also maintains style guides for each of its clients. See also tone of voice.",
+        "Link": ["Tone of voice"]
+    },
+    {
+        "Term":"Style tiles",
+        "Tags": ["UX/Design"],
+        "Definition":"A visual reference to the design language of a website, including fonts, colour and style collections. In contrast to wireframes, style tiles are not concerned with specific layouts â€“ they focus on the mood and personality of the site.",
+        "Link": ["Wireframe"]
+    },
+    {
+        "Term":"Subbing",
+        "Tags": ["Editorial"],
+        "Definition":"At Zone, the subbing team ensures the accuracy, quality and consistency of content across websites and social media;â€¨ maintains the correct tones of voice across a range of accounts; ensures all content meets brand and legal guidelines; and liaises with creatives or client services to ensure smooth delivery. The head of subbing also wrote this glossary.",
+        "Link": [""]
+    },
+    {
+        "Term":"SVG",
+        "Tags": ["Tech"],
+        "Definition":"Scalable vector graphics (SVG) is a file format that enables two-dimensional images to be displayed in XML pages on the web.",
+        "Link": [""]
+    },
+    {
+        "Term":"Taxonomy",
+        "Tags": ["UX/Design"],
+        "Definition":"A structure that organises pieces of information and clarifies the relationships between them. In UX this is used to create information hierarchies that are represented by menu structures, which have been created through card sorting and other methods that discover how users associate and label different areas of information.",
+        "Link": ["Card sorting"]
+    },
+    {
+        "Term":"Template",
+        "Tags": ["UX/Design"],
+        "Definition":"A tool for enforcing a standard layout and look and feel across multiple pages of a website.",
+        "Link": [""]
+    },
+    {
+        "Term":"Test plan",
+        "Tags": ["Tech"],
+        "Definition":"A document describing the specific details for software testing, including what is to be tested, testing environment, status and types of testing. See also test strategy.",
+        "Link": ["Test strategy"]
+    },
+    {
+        "Term":"Test strategy",
+        "Tags": ["Tech"],
+        "Definition":"A high-level document that defines the approach for software testing including scope, objectives, deliverables and risks. See also test plan.",
+        "Link": ["Test plan"]
+    },
+    {
+        "Term":"Time and materials",
+        "Tags": ["Production"],
+        "Definition":"A contract in which the client agrees to pay the agency for time spent performing the work and for materials used in the process, regardless of how much work is required to complete the task. This type of contract is generally used when it is not possible to accurately estimate the size of a project, or when requirements are likely to change.  ",
+        "Link": [""]
+    },
+    {
+        "Term":"Timebox",
+        "Tags": ["Production"],
+        "Definition":"In agile software development, a timebox is a defined period of time during which a task must be accomplished.",
+        "Link": ["Agile software development methodology"]
+    },
+    {
+        "Term":"Timezone",
+        "Tags": ["Zone"],
+        "Definition":"Zone's proprietary agency operating system, Timezone combines project-tracking tools with a bespoke timesheeting system to give real-time insight into Zone's delivery. It is available to clients, giving them a live view of their projects, showing them the team, budget and how the work is progressing. Timezone's data dashboard also allows the agency to project into the future, providing it with a range of metrics to help decide KPIs and other targets. Timezone is also home to Zone's intranet and training hub, including appraisals and My Zone Career. ",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Budget",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"The agreed amount for a client to be billed for a project.  ",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Budget to date",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"In the Client Report, the Budget to date is calculated as Budget x Time %.",
+        "Link": ["Client", "Report", "Budget", "Time"]
+    },
+    {
+        "Term":"Timezone: Client Report",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"A report in Timezone accessible by clicking on the Timezone logo or the first report on the Dashboard page. This lists, for each account or project manager, the various metrics for their projects.",
+        "Link": ["Dashboard"]
+    },
+    {
+        "Term":"Timezone: Completion %",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"In Timezone, a percentage selected by account or project manager for each live project at the end of each month. It indicates how far into a project the team is in terms of the actual work done (ie not simply how many days have elapsed since project commencement date). So, for a project that is three-quarters of the way through at the end of a particular month, the completion percentage for that month should be 75%, regardless of how much of the project's timeline has elapsed in calendar terms.",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Dashboard",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"A collection of pre-saved reports in Timezone that cover the most important business metrics.",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Dataset",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"A collection of data values for one quantity, eg P&L, timesheeted days, requests. The dataset in each Timezone report can be changed to check for different outcomes.",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Dimension",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"Different ways to slice and dice a dataset into rows, columns and filters, eg Year, Month, Client, Project or Line Item.",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: LineGroup ",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"In Timezone, an aspect of the P&L: revenue, direct costs, freelance costs, staff costs or overheads.",
+        "Link": ["P&L"]
+    },
+    {
+        "Term":"Timezone: LineItem",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"In Timezone, a subcategory within a LineGroup. For example, for the Revenue LineGroup, the LineItems are (1) normal billings to clients at the Zone day rates and (2) recharges of third-party costs such as hosting.",
+        "Link": ["LineGroup"]
+    },
+    {
+        "Term":"Timezone: Project Report",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"In Timezone, a report available by clicking on the 'report' link on the project list or from inside the 'edit project' page. This shows several metrics, such as billable vs budgeted days to date and the project P&L.",
+        "Link": [""]
+    },
+    {
+        "Term":"Timezone: Time",
+        "Tags": ["Zone", "Finance"],
+        "Definition":"On the Project Completion page or the Client Report, a calculation of how advanced a project is in calendar terms. For example, a project with a start date of 1 January 2015 and an end date of 30 April 2015 will, at the end of March 2015, have a Time % of 75%. On the Project Completion page, all Time % will be shown as of the end of the relevant month.",
+        "Link": ["Client Report"]
+    },
+    {
+        "Term":"Tone of voice",
+        "Tags": ["Editorial"],
+        "Definition":"The way in which a brand writes and speaks. A tone of voice expresses a brand's personality â€“ who it is, what it stands for and how it wants to be perceived. This is conveyed through the choice of words, how sentences are constructed and how it addresses the reader. A strong tone of voice helps a brand to stand out from its competitors and communicate effectively with its customers. It should be consistent across all of a brand's output. See also style guide.",
+        "Link": ["Style guide"]
+    },
+    {
+        "Term":"Topic blueprint",
+        "Tags": ["Editorial", "Strategy"],
+        "Definition":"When planning content creation, a topic blueprint can be used to define where the best strategic editorial opportunities lie. It is a chart that plots customer interests against a brand's objectives and, crucially, where it has credibility. Where these areas meet on the chart is where content should be most effective. ",
+        "Link": [""]
+    },
+    {
+        "Term":"TortoiseSVN",
+        "Tags": ["Tech"],
+        "Definition":"An open-source version control software program for Windows.",
+        "Link": [""]
+    },
+    {
+        "Term":"Treejack",
+        "Tags": ["UX/Design"],
+        "Definition":"A software tool to test the effectiveness of an information architecture. It is used to evaluate the effectiveness of a proposed menu structure in a website, without the influence of in-page text visual design.",
+        "Link": ["https:\\/\\/www.optimalworkshop.com/treejack Information architecture"]
+    },
+    {
+        "Term":"Triage",
+        "Tags": ["Production"],
+        "Definition":"A process used to quickly analyse troubled projects in order to prioritise them, and to define the next steps based on the current status of each project. It is usually performed at the end of an accounting period by the project manager.",
+        "Link": [""]
+    },
+    {
+        "Term":"UGC",
+        "Tags": ["Editorial"],
+        "Definition":"User-generated content (UGC) refers to any content that is created and shared by the users of a website or social platform. Forms of UGC include photos, videos, blogs and comments. Brands can use UGC to build awareness (eg through a competition) and engage consumers by giving them a platform to share their opinions or giving them exposure. For example, Zone and Coca-Cola amplified the Share a Coke campaign by asking customers to share pictures of their personalised bottles on social media.  ",
+        "Link": [""]
+    },
+    {
+        "Term":"Umbraco",
+        "Tags": ["Tech"],
+        "Definition":"An open-source CMS platform for publishing web content. It is written in C# and uses the .NET operating system. Examples of websites Zone has built using Umbraco include Girl Effect and the Tesco Eat Happy Project.",
+        "Link": ["CMS C# .NET http: //www.girleffect.org http: //www.eathappyproject.com"]
+    },
+    {
+        "Term":"Unit testing",
+        "Tags": ["Tech"],
+        "Definition":"A software testing method in which the smallest testable parts of an application (the units) are individually tested to determine whether they are fit for use.",
+        "Link": [""]
+    },
+    {
+        "Term":"URL",
+        "Tags": ["Tech"],
+        "Definition":"A Uniform Resource Locator (URL) is the unique address for a web page. URLs are split into two components separated by a colon. For example, in http://zonedigital.com/ 'http' is the protocol identifier and '//zonedigital.com/' is the resource name.",
+        "Link": [""]
+    },
+    {
+        "Term":"User Acceptance Testing (UAT)",
+        "Tags": ["Tech"],
+        "Definition":"The last phase of the software testing process in which the software is tested in the 'real world' by the intended audience. Also known as beta testing. ",
+        "Link": [""]
+    },
+    {
+        "Term":"User experience design (UXD)",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of designing digital products or services in a way that considers the needs of the user at every stage. The product, for example a website, should be useful, easy to use and a pleasure to interact with. UXD encompasses a number of disciplines including user research, information architecture, interaction design and user interface design.",
+        "Link": ["User research Interaction design Information architecture User interface "]
+    },
+    {
+        "Term":"User interface (UI)",
+        "Tags": ["UX/Design"],
+        "Definition":"The means by which a user controls a software app or hardware device. The interface determines how commands are given to the computer or the program and how information is displayed on the screen. On a GUI (graphical user interface) the user gives commands by clicking on icons on the screen. A good UI allows the user to interact with the software or hardware in a natural and intuitive way.",
+        "Link": [""]
+    },
+    {
+        "Term":"User journey",
+        "Tags": ["UX/Design"],
+        "Definition":"The path a user may take on a website, through a service or interacting with content across a number of touchpoints. User journeys are used in the design process to identify different ways a user could reach their goal. ",
+        "Link": [""]
+    },
+    {
+        "Term":"User research",
+        "Tags": ["UX/Design"],
+        "Definition":"The process of learning about product or service users or potential users â€“ their situation, background, needs and context in which they work. User research is usually done at a formative design stage to ensure the project will be usable and add value to users. Types of user research include ethnography, depth interviews, diary studies, focus groups and card sorting.",
+        "Link": ["Card sort", "Diary study"]
+    },
+    {
+        "Term":"User-centred design (UCD)",
+        "Tags": ["UX/Design"],
+        "Definition":"A philosophy in which the end user's needs, wants and limitations are the priority at every stage of the design process and development life cycle. Using UCD should mean the product adapts to the user's needs, rather than the other way round. ",
+        "Link": [""]
+    },
+    {
+        "Term":"UX strategy",
+        "Tags": ["UX/Design"],
+        "Definition":"The use of UX design as a strategic tool in the defining and planning of products and services. This includes long-term planning to define the type of user experience an organisation wants to deliver, and is developed in recognition of organisation/business needs, available resources and technology and market contexts. Outputs from UX strategy work include strategic vision documents, roadmaps defining what needs to happen to make that a reality and a set of KPIs to monitor progress and success.",
+        "Link": [""]
+    },
+    {
+        "Term":"Vector",
+        "Tags": ["UX/Design"],
+        "Definition":"Digital graphics that are created in graphics packages and are made up of objects (rather than pixels). Vector graphics can be resized without losing quality and each object can be edited. See also bitmap.",
+        "Link": ["Bitmap"]
+    },
+    {
+        "Term":"Version control",
+        "Tags": ["Tech"],
+        "Definition":"A system that records all changes made to a file or set of files over time so that a specific version can be recalled at a later date. Version control systems such as Git allow multiple developers to collaborate on the same code base at the same time without overriding each other's changes.",
+        "Link": ["Git"]
+    },
+    {
+        "Term":"Viral content",
+        "Tags": ["Editorial"],
+        "Definition":"A piece of online content that is circulated rapidly and widely via social media, email and on news sites such as Buzzfeed. Creating content that goes viral is the holy grail for marketers but it is tough to predict what will capture the public's imagination. Examples range from the ice bucket challenge (based on audience participation), #thedress (a debate about the colour of a dress that proves the unpredictability of viral content) and, from a marketer's point of view, a YouTube promo for the film Carrie. ",
+        "Link": ["https://www.youtube.com/watch?v=VlOxlSOr3_M"]
+    },
+    {
+        "Term":"Vlogger",
+        "Tags": ["Editorial"],
+        "Definition":"Someone who records a video blog in which they discuss themselves and their opinions on anything from shopping to pop music to politics, and then uploads it to a video-sharing platform, eg YouTube. Many of the most popular vloggers (eg Zoella) are young and appeal to a young online audience, thereby making them an attractive proposition for marketers. The Committee of Advertising Practice issued guidance in August 2015 to ensure that any paid-for content is clearly labelled as such. See also blogger outreach.",
+        "Link": ["Blogger outreach"]
+    },
+    {
+        "Term":"VoiceOver",
+        "Tags": ["Accessibility"],
+        "Definition":"A screen reader built into Apple devices that enables blind and visually impaired people to use Macs, iPhones and iPads. ",
+        "Link": ["Screen reader"]
+    },
+    {
+        "Term":"Warranty period",
+        "Tags": ["Production"],
+        "Definition":"After a product is handed over to a client, the warranty period is the agreed period of time in which bugs will be fixed by the agency. ",
+        "Link": ["Bug"]
+    },
+    {
+        "Term":"WAT-C",
+        "Tags": ["Accessibility"],
+        "Definition":"The Web Accessibility Tools Consortium is a collection of free tools to assist developers and designers in the development and testing of accessible web content.",
+        "Link": ["http://www.wat-c.org"]
+    },
+    {
+        "Term":"Waterfall",
+        "Tags": ["Production", "Tech", "UX/Design"],
+        "Definition":"A sequential design process used in software development, in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of conception, initiation, analysis, design, construction, testing, production/implementation and maintenance. See also agile and RAD.",
+        "Link": ["Agile software development methodology", "RAD"]
+    },
+    {
+        "Term":"WAVE",
+        "Tags": ["Accessibility"],
+        "Definition":"A web accessibility evaluation tool that helps developers discover if their websites are truly accessible. By simply entering a URL on its site, WAVE identifies errors such as missing alt text, very small text and low contrast between text and images.",
+        "Link": ["http://wave.webaim.org"]
+    },
+    {
+        "Term":"WCAG 2.0",
+        "Tags": ["Accessibility"],
+        "Definition":"The Web Content Accessibility Guidelines define how to make web content more accessible to people with disabilities. The second edition was published in 2008 and is still considered the global standard in terms of accessibility.",
+        "Link": ["http://www.w3.org/WAI/intro/wcag"]
+    },
+    {
+        "Term":"Web app manifest",
+        "Tags": ["Tech"],
+        "Definition":"The manifest provides developers with a centralised place to put metadata associated with a web application. This includes the web application's name, links to icons and the preferred URL to open.",
+        "Link": [""]
+    },
+    {
+        "Term":"Web font",
+        "Tags": ["UX/Design"],
+        "Definition":"Web fonts allow designers to use fonts that have not been installed on the user's computer. The fonts are downloaded by the user's browser while rendering the web page, and then applied to the text.",
+        "Link": [""]
+    },
+    {
+        "Term":"Web server",
+        "Tags": ["Tech"],
+        "Definition":"When a user enters a URL into a browser, the browser sends off a request to view the web page. The web server is the program or machine that responds to that request, and delivers the content of the page back to the user. Every web server has an IP address.",
+        "Link": ["URL", "IP", "address"]
+    },
+    {
+        "Term":"Web service",
+        "Tags": ["Tech"],
+        "Definition":"XML-based information exchange systems that use the web for direct application-to-application interaction. These systems can include programs, objects, messages or documents.",
+        "Link": [""]
+    },
+    {
+        "Term":"WebAIM",
+        "Tags": ["Accessibility"],
+        "Definition":"Web Accessibility In Mind is a not-for-profit organisation that provides a number of web accessibility products and services, including WAVE.",
+        "Link": ["WAVE"]
+    },
+    {
+        "Term":"Webinar",
+        "Tags": ["Editorial", "Production", "Account management", "Tech"],
+        "Definition":"A presentation, lecture or workshop that is delivered online. Participants can view documents on their computers, while shared audio allows for questions and discussion. Webinars are sometimes recorded for people to view afterwards.",
+        "Link": [""]
+    },
+    {
+        "Term":"White space",
+        "Tags": ["UX/Design"],
+        "Definition":"Space in a design left blank for a better structure and layout. White space helps to separate elements on a screen, create focus and balance and improves readability. Despite the name, the space can be any colour.",
+        "Link": [""]
+    },
+    {
+        "Term":"Windows-Eyes",
+        "Tags": ["Accessibility"],
+        "Definition":"A screen reader for the Microsoft Windows operating system that enables blind and visually impaired people to use computers.",
+        "Link": ["Screen reader"]
+    },
+    {
+        "Term":"Wireframe",
+        "Tags": ["UX/Design"],
+        "Definition":"A visual guide (either sketched by hand or using a software programme) that shows what a web page or app will look like. It should display the proposed functions, structure and content of a page, for example the navigation, CTA buttons and location of different elements without using any graphics, text or colour. Wireframes are a key part of the user-centred design process as they help to define the user journey before the addition of visual design. See also mock-ups.",
+        "Link": ["User-centred design", "Mock-up"]
+    },
+    {
+        "Term":"Workstream",
+        "Tags": ["Production"],
+        "Definition":" A workstream is the progressive set of tasks, worked on by distinct (and often unrelated) work groups, which are required to complete a project.",
+        "Link": [""]
+    },
+    {
+        "Term":"WYSIWYG (What you see is what you get)",
+        "Tags": ["UX/Design"],
+        "Definition":"WYSIWYG (pronounced 'wiz-ee-wig') applications enable developers to see what the end result will look like while they are creating the interface or document.",
+        "Link": [""]
+    },
+    {
+        "Term":"Xamarin",
+        "Tags": ["Tech"],
+        "Definition":"A tool that enables developers to write mobile applications in C+ that will run across iOS, Android and Windows platforms.",
+        "Link": ["C+"]
+    },
+    {
+        "Term":"ZWAG",
+        "Tags": ["Zone", "Accessibility"],
+        "Definition":"The Zone Web Accessibility Guidelines (ZWAG), created by Zone, is an easy lookup guide available to all that makes it easier to ensure a website can be used by every kind of user. It incorporates much of WCAG 2.0, but is not intended to be a substitute for the official W3C documentation. ",
+        "Link": ["http://zone.github.io/zwag/", "WCAG 2.0"]
+    }
+]
