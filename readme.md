@@ -8,7 +8,7 @@ You'll need Node/NPM installed.
 
 ## Install
 
-Run `npm i -g gulp && npm i` - This will install gulp globally and all required packages.
+Run `npm install` - This will install all the required packages.
 
 ## Development
 
