@@ -3,4 +3,6 @@
 
 # TEAM
 
-    Mike Simmonds -- Senior Front-end Developer -- @mikesimmonds
+    Ross Basham -- Head of subbing
+    Richard Bultitude -- Head of front end development -- @rbultitudezone
+    Mike Simmonds -- Senior front end developer -- @mikesimmonds

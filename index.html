@@ -48,8 +48,8 @@
             <div class="app" data-ng-controller="EntriesCtrl">
                 <h1 class="app__title">Zone <strong>Glossary</strong></h1>
 
-                <p class="app__intro">We know that our industry our our organisation use terms, acronymns and language that can be at best esoteric and at worst confusing. That's way we created a comprehensive glossary &mdash; so that you can quickly find the correct meaning for any word or phase you may encounter when working with us.</p>
-                <p>Search by term or by department and get a succinct explanation of the relevant criteria.</p>
+                <p class="app__intro">We know that our industry uses terms, acronymns and language that can be at best esoteric and at worst confusing. That's way we created a comprehensive glossary &mdash; so that you can quickly find the correct meaning for any word or phase you may encounter when working with us.</p>
+                <p>Search by term or by discipline and get a succinct explanation of the relevant criteria.</p>
 
                 <div class="app__loader">Loading glossary data...</div>
 
@@ -63,7 +63,7 @@
                             <span class="select">
                                 <label for="form-search-tags">Search by priority tags</label>
                                 <select data-ng-model="search.Tags" id="form-search-tags">
-                                    <option value="">Any tags</option>
+                                    <option value="">Any discipline</option>
                                     <option data-ng-repeat="tag in tags" value="{{tag}}">{{tag}}</option>
                                 </select>
                             </span>
