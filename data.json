@@ -87,13 +87,15 @@
         "Term":"ASP.NET",
         "Tags": ["Tech"],
         "Definition":"ASP.NET is part of the .NET framework and allows developers to create rich web applictions. See also .Net",
-        "Link": ["http://www.asp.net", ".NET"]
+        "Link": [".NET"],
+        "ExternalLink": ["http://www.asp.net"]
     },
     {
         "Term":"ATAG",
         "Tags": ["Accessibility"],
         "Definition":"The Authoring Tool Accessibililty Guidelines (ATAG) explain how to make tools accessible, so people with disabilities can create web content. They also help authors create more accessible web content.",
-        "Link": ["http://www.w3.org/WAI/intro/atag.php"]
+        "Link": [],
+        "ExternalLink": ["http://www.w3.org/WAI/intro/atag.php"]
     },
     {
         "Term":"Back-end development",
@@ -117,7 +119,8 @@
         "Term":"Bitbucket",
         "Tags": ["Tech"],
         "Definition":"A web-based hosting service for projects that use either the Github or Mercurial revision control systems.",
-        "Link": ["https://bitbucket.org", "Github"]
+        "Link": ["Github"],
+        "ExternalLink": ["https://bitbucket.org"]
     },
     {
         "Term":"Bitmap",
@@ -129,7 +132,8 @@
         "Term":"Blogger outreach",
         "Tags": ["Editorial"],
         "Definition":"Brands working with bloggers to create original content that promotes their goods or services. Blogger outreach is most successful when there is a shared passion between brand and blogger, the blogger is a trusted influencer to the brand's target market and there is a mutual benefit for both parties. Under ASA rules, bloggers must declare the 'sponsored' nature of commissioned content. See also influencer outreach.",
-        "Link": ["https://www.asa.org.uk/News-resources/Media-Centre/2014/Making-ads-Clear-The-challenge-for-advertisers-and-vloggers.aspx#.VffdVUI0Pww", "Influencer outreach"]
+        "Link": ["Influencer outreach"],
+        "ExternalLink": ["https://www.asa.org.uk/News-resources/Media-Centre/2014/Making-ads-Clear-The-challenge-for-advertisers-and-vloggers.aspx#.VffdVUI0Pww"]
     },
     {
         "Term":"Brand assets",
@@ -207,7 +211,8 @@
         "Term":"Campaign monitor",
         "Tags": ["Tech"],
         "Definition":"An online email marketing application that enables designers to create, send, manage and track email marketing campaigns.",
-        "Link": ["https://www.campaignmonitor.com"]
+        "Link": [],
+        "ExternalLink": ["https://www.campaignmonitor.com"]
     },
     {
         "Term":"Canvas",
@@ -333,7 +338,8 @@
         "Term":"Contrast ratio",
         "Tags": ["Accessibility"],
         "Definition":"The difference between the brightest a screen can be, and the darkest. The Web Content Accessibility Guidelines require that text (and images of text) provide adequate contrast for people with visual impairments.",
-        "Link": ["http://www.w3.org/TR/WCAG20-TECHS/G18.html"]
+        "Link": [],
+        "ExternalLink": ["http://www.w3.org/TR/WCAG20-TECHS/G18.html"]
     },
     {
         "Term":"Conversation",
@@ -393,7 +399,8 @@
         "Term":"Curation",
         "Tags": ["Editorial"],
         "Definition":"The process of discovering, gathering and presenting the best and most relevant (often third-party) content to a specific audience. It can be used alongside content creation to give added value to a brand's output and build long-term loyalty. For example the Girl Effect's Latest News page combines original articles with curated material to give a fully rounded view of the issues facing girls in the developing world. ",
-        "Link": ["http://www.girleffect.org/latest-news/"]
+        "Link": [],
+        "ExternalLink": ["http://www.girleffect.org/latest-news/"]
     },
     {
         "Term":"Data Visualisation",
@@ -488,8 +495,9 @@
     {
         "Term":"Dotmailer",
         "Tags": ["Tech"],
-        "Definition":"A flexible, scalable email-marketing software that allows for third-party integration with CMSs such as Wordpress.",
-        "Link": ["http://www.dotmailer.com"]
+        "Definition":"A flexible, scalable email-marketing software that allows for third-party integration with CMSs such as Wordpress. <a href='http:\\/\\/www.dotmailer.com'>Dotmailer</a>",
+        "Link": [],
+        "ExternalLink": ["http://www.dotmailer.com"]
     },
     {
         "Term":"EARL",
@@ -513,7 +521,8 @@
         "Term":"EPiServer",
         "Tags": ["Tech"],
         "Definition":"A web CMS software company that offers digital marketing and e-commerce solutions through its .NET CMS and e-commerce platform. An award-winning example of a site Zone built using EPiServer is Gatwick Airport.",
-        "Link": ["http://www.gatwickairport.com"]
+        "Link": [],
+        "ExternalLink": ["http://www.gatwickairport.com"]
     },
     {
         "Term":"EQA",
@@ -531,7 +540,8 @@
         "Term":"Exec",
         "Tags": ["Zone"],
         "Definition":"The team responsible for running the business at Zone are known as the Exec. ",
-        "Link": ["https://www.thisiszone.com/team/"]
+        "Link": [],
+        "ExternalLink": ["https://www.thisiszone.com/team/"]
     },
     {
         "Term":"Experience mapping",
@@ -633,7 +643,8 @@
         "Term":"Hackathon",
         "Tags": ["Tech"],
         "Definition":"An event in which people come together as teams to work intensely (often over a 24- or 48-hour period with little or no sleep) on creating a digital project. Often there is a specific brief to work towards, with the teams' solutions evaluated by a panel of judges who may award prizes. At #Zonehack 2015, for example, the teams (consisting of developers, strategists, QA specialists and designers) came up with ways to help people self-manage an illness, disability or lifestyle choice.",
-        "Link": ["https://www.thisiszone.com/uk/news/building-brilliance-in-bristol-at-zonehack-2015/"]
+        "Link": [],
+        "ExternalLink": ["https://www.thisiszone.com/uk/news/building-brilliance-in-bristol-at-zonehack-2015/"]
     },
     {
         "Term":"Hierarchy",
@@ -789,7 +800,8 @@
         "Term":".NET",
         "Tags": ["Tech"],
         "Definition":"A software programming framework created by Microsoft that helps developers to create applications more easily. ",
-        "Link": ["http://www.microsoft.com/net"]
+        "Link": [],
+        "ExternalLink": ["http://www.microsoft.com/net"]
     },
     {
         "Term":"Newsroom",
@@ -819,7 +831,8 @@
         "Term":"Octopus Deploy",
         "Tags": ["Tech"],
         "Definition":"An automated release management tool for .NET developers. Octopus deploys applications into test, staging and production environments, either in the cloud or on premises.",
-        "Link": ["https://octopus.com", ".NET"]
+        "Link": [".NET"],
+        "ExternalLink": ["https://octopus.com"]
     },
     {
         "Term":"Open source",
@@ -831,7 +844,8 @@
         "Term":"ORCA",
         "Tags": ["Accessibility"],
         "Definition":"A free screen reader from the GNOME Project that enables blind and visually impaired people to use computers.",
-        "Link": ["https://wiki.gnome.org/action/show/Projects/Orca?action=show&redirect=Orca", "Screen reader"]
+        "Link": ["Screen reader"],
+        "ExternalLink": ["https://wiki.gnome.org/action/show/Projects/Orca?action=show&redirect=Orca"]
     },
     {
         "Term":"Overhead",
@@ -987,7 +1001,8 @@
         "Term":"Readability",
         "Tags": ["Editorial", "UX/Design"],
         "Definition":"How easy a piece of writing is to read and understand. The principles for web readability differ from print as it is thought that online readers are more likely to scan the text rather than read it word-for-word. Readability factors include choice and size of font, line spacing, contrast, short sentences and paragraphs, use of highlighting, bullet points and lists and language. Zone also uses the Flesch-Kincaid readability tests.",
-        "Link": ["https://en.wikipedia.org/wiki/Flesch-Kincaid_readability_tests"]
+        "Link": [],
+        "ExternalLink": ["https://en.wikipedia.org/wiki/Flesch-Kincaid_readability_tests"]
     },
     {
         "Term":"Real-time marketing",
@@ -1407,7 +1422,8 @@
         "Term":"Treejack",
         "Tags": ["UX/Design"],
         "Definition":"A software tool to test the effectiveness of an information architecture. It is used to evaluate the effectiveness of a proposed menu structure in a website, without the influence of in-page text visual design.",
-        "Link": ["https:\\/\\/www.optimalworkshop.com/treejack Information architecture"]
+        "Link": ["Information architecture"],
+        "ExternalLink": ["https:\\/\\/www.optimalworkshop.com/treejack"]
     },
     {
         "Term":"Triage",
@@ -1425,7 +1441,8 @@
         "Term":"Umbraco",
         "Tags": ["Tech"],
         "Definition":"An open-source CMS platform for publishing web content. It is written in C# and uses the .NET operating system. Examples of websites Zone has built using Umbraco include Girl Effect and the Tesco Eat Happy Project.",
-        "Link": ["CMS C# .NET http: //www.girleffect.org http: //www.eathappyproject.com"]
+        "Link": ["CMS", "C#", ".NET"],
+        "ExternalLink": ["http://www.umbraco.org"]
     },
     {
         "Term":"Unit testing",
@@ -1497,7 +1514,8 @@
         "Term":"Viral content",
         "Tags": ["Editorial"],
         "Definition":"A piece of online content that is circulated rapidly and widely via social media, email and on news sites such as Buzzfeed. Creating content that goes viral is the holy grail for marketers but it is tough to predict what will capture the public's imagination. Examples range from the ice bucket challenge (based on audience participation), #thedress (a debate about the colour of a dress that proves the unpredictability of viral content) and, from a marketer's point of view, a YouTube promo for the film Carrie. ",
-        "Link": ["https://www.youtube.com/watch?v=VlOxlSOr3_M"]
+        "Link": [],
+        "ExternalLink": ["https://www.youtube.com/watch?v=VlOxlSOr3_M"]
     },
     {
         "Term":"Vlogger",
@@ -1521,7 +1539,8 @@
         "Term":"WAT-C",
         "Tags": ["Accessibility"],
         "Definition":"The Web Accessibility Tools Consortium is a collection of free tools to assist developers and designers in the development and testing of accessible web content.",
-        "Link": ["http://www.wat-c.org"]
+        "Link": [],
+        "ExternalLink": ["http://www.wat-c.org"]
     },
     {
         "Term":"Waterfall",
@@ -1533,13 +1552,15 @@
         "Term":"WAVE",
         "Tags": ["Accessibility"],
         "Definition":"A web accessibility evaluation tool that helps developers discover if their websites are truly accessible. By simply entering a URL on its site, WAVE identifies errors such as missing alt text, very small text and low contrast between text and images.",
-        "Link": ["http://wave.webaim.org"]
+        "Link": [],
+        "ExternalLink": ["http://wave.webaim.org"]
     },
     {
         "Term":"WCAG 2.0",
         "Tags": ["Accessibility"],
         "Definition":"The Web Content Accessibility Guidelines define how to make web content more accessible to people with disabilities. The second edition was published in 2008 and is still considered the global standard in terms of accessibility.",
-        "Link": ["http://www.w3.org/WAI/intro/wcag"]
+        "Link": [],
+        "ExternalLink": ["http://www.w3.org/WAI/intro/wcag"]
     },
     {
         "Term":"Web app manifest",
@@ -1617,6 +1638,7 @@
         "Term":"ZWAG",
         "Tags": ["Zone", "Accessibility"],
         "Definition":"The Zone Web Accessibility Guidelines (ZWAG), created by Zone, is an easy lookup guide available to all that makes it easier to ensure a website can be used by every kind of user. It incorporates much of WCAG 2.0, but is not intended to be a substitute for the official W3C documentation. ",
-        "Link": ["http://zone.github.io/zwag/", "WCAG 2.0"]
+        "Link": ["WCAG 2.0"],
+        "ExternalLink": ["http://zone.github.io/zwag/"]
     }
 ]

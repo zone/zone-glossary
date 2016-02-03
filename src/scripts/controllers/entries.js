@@ -34,28 +34,34 @@ module.exports = function($scope, $http, $window, filterFilter) {
         $scope.noOfPages = Math.ceil($scope.totalItems / $scope.entryLimit);
 
         // $watch search to update pagination
-        $scope.$watch('search', function (newVal) {
+        $scope.$watch('search', function(newVal) {
             $scope.filtered = filterFilter($scope.filteredEntries, newVal);
             $scope.totalItems = $scope.filtered.length;
             $scope.noOfPages = Math.ceil($scope.totalItems / $scope.entryLimit);
             $scope.currentPage = 1;
         }, true);
 
+        $scope.loadSearchTerm = function(id) {
+            var thisHashArr = id.target.hash.split('#');
+            var thisHash = thisHashArr[1];
+            $scope.search.Term = thisHash;
+        }
+
     });
 
-    $scope.visit = function ($event, path) {
+    $scope.visit = function($event, path) {
         $event.preventDefault();
         $window.open(path, '_blank');
     };
 
-    $scope.resetFilters = function () {
+    $scope.resetFilters = function() {
         // needs to be a function or it won't trigger a $watch
         $scope.search = {};
     };
 
-    $scope.exactOrEmpty = function (actual, expected) {
+    $scope.exactOrEmpty = function(actual, expected) {
         if (!expected) {
-           return true;
+            return true;
         }
         return angular.equals(expected, actual);
     };

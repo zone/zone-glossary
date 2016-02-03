@@ -99,7 +99,7 @@
                             </ul>
                             <ul class="links">
                                 <li ng-repeat="link in item.Link" class="link">
-                                    <a href="#{{link}}">
+                                    <a href="#{{link}}" ng-click="loadSearchTerm($event)">
                                         {{link}}
                                     </a>
                                 </li>
