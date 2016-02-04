@@ -2,10 +2,12 @@
 
 // Fire up angular
 var angular = require('angular');
-var app = angular.module('glossaryApp', []);
+require('./libs/history');
+require('./libs/ngLazyBind');
+var app = angular.module('glossaryApp', ['decipher.history', 'lazyBind']);
 
 // Load controllers
-app.controller('EntriesCtrl', ['$scope', '$http', '$window', 'filterFilter', require('./controllers/entries')]);
+app.controller('EntriesCtrl', ['$scope', '$http', '$window', 'filterFilter', 'History', '$lazyBind', require('./controllers/entries')]);
 
 // Load filters
 app.filter('highlight', ['$sce', require('./filters/highlight')]);
