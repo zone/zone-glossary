@@ -51,16 +51,19 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 			$scope.search.Term = thisHash;
 		};
 
-		History.watch('search', $scope, 'Search Changed', {timeout: 1000})
+		//Listen for changes to the search history
+		var watchHistory = History.watch('search', $scope, 'Search Changed', {timeout: 1000})
 			.addChangeHandler('myChangeHandler', function() {
-				history.pushState(null, 'search update', '');
-				console.log('search got changed');
+				history.pushState($scope.search, 'search updated', '');
+				console.log('search got changed', $scope.search);
 			})
 			.addUndoHandler('myUndoHandler', function() {
-				console.log('undid');
+				console.log('search got undone', $scope.search);
 			});
+		
+		//Move the scope back to the last state
+		//when user clicks back
 		window.addEventListener('popstate', function() {
-			console.log('back');
 			History.undo('search', $scope);
 		});
 
