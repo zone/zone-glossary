@@ -12,6 +12,9 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 	$scope.search = {};
 	$scope.entries = [];
 	$scope.tags = [];
+	//Lazy bind
+	$scope.cacheTime = 5000;
+	$scope.lazyFn = $lazyBind($scope, $scope.cacheTime);
 
 	$http.get('data.json').success(function(data) {
 		loader.style.display = 'none';
@@ -41,18 +44,23 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 			$scope.currentPage = 1;
 		}, true);
 
-		$scope.loadSearchTerm = function(id) {
-			var thisHashArr = id.target.hash.split('#');
+		$scope.loadSearchTerm = function(event) {
+			event.preventDefault();
+			var thisHashArr = event.target.hash.split('#');
 			var thisHash = thisHashArr[1];
 			$scope.search.Term = thisHash;
 		};
 
-		History.watch('search', $scope, 'Search Changed', {})
+		History.watch('search', $scope, 'Search Changed', {timeout: 1000})
 			.addChangeHandler('myChangeHandler', function() {
-				//history.pushState($scope, 'search update', '');
+				history.pushState(null, 'search update', '');
 				console.log('search got changed');
+			})
+			.addUndoHandler('myUndoHandler', function() {
+				console.log('undid');
 			});
-		window.addEventListener('popstate', function () {
+		window.addEventListener('popstate', function() {
+			console.log('back');
 			History.undo('search', $scope);
 		});
 
