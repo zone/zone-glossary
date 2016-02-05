@@ -2,9 +2,12 @@
 
 var angular = require('angular');
 
-module.exports = function($scope, $http, $window, filterFilter, History, $lazyBind) {
-
+module.exports = function($scope, $http, $window, filterFilter) {
 	var loader = document.querySelector('.app__loader');
+
+	//variables for debouncing history saves of search input
+	var typingTimer;               //timer identifier
+	var doneTypingInterval = 500;  //time in ms, 5 second for example
 
 	// Pagination
 	$scope.currentPage = 1;
@@ -12,13 +15,17 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 	$scope.search = {};
 	$scope.entries = [];
 	$scope.tags = [];
-	//Lazy bind
-	$scope.cacheTime = 5000;
-	$scope.lazyFn = $lazyBind($scope, $scope.cacheTime);
+	$scope.oldTime = 0;
 
 	$http.get('data.json').success(function(data) {
 		loader.style.display = 'none';
 
+		var pushSearchState = function() {
+			history.pushState($scope.search, '');
+		};
+
+		pushSearchState();
+		
 		data.forEach(function(item) {
 			// Push unique tags
 			item.Tags.forEach(function(tag) {
@@ -51,22 +58,25 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 			$scope.search.Term = thisHash;
 		};
 
-		//Listen for changes to the search history
-		var watchHistory = History.watch('search', $scope, 'Search Changed', {timeout: 1000})
-			.addChangeHandler('myChangeHandler', function() {
-				history.pushState($scope.search, 'search updated', '');
-				console.log('search got changed', $scope.search);
-			})
-			.addUndoHandler('myUndoHandler', function() {
-				console.log('search got undone', $scope.search);
-			});
-		
+		//on keyup, start the countdown
+		document.querySelector('[data-ng-model="search.Term"]').addEventListener('keyup', function(){
+		    clearTimeout(typingTimer);
+		    if (document.querySelector('[data-ng-model="search.Term"]').value) {
+		    	typingTimer = setTimeout(pushSearchState, doneTypingInterval);
+		    }
+		});
+
+		document.querySelector('[data-ng-model="search.Tags"]').addEventListener('change', function(){
+			pushSearchState();
+		});
+
 		//Move the scope back to the last state
 		//when user clicks back
 		window.addEventListener('popstate', function() {
-			History.undo('search', $scope);
+			$scope.$apply(function(){
+				$scope.search = history.state;
+			});
 		});
-
 	});
 
 	$scope.visit = function($event, path) {
@@ -85,5 +95,4 @@ module.exports = function($scope, $http, $window, filterFilter, History, $lazyBi
 		}
 		return angular.equals(expected, actual);
 	};
-
 };
