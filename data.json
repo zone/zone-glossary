@@ -15,7 +15,7 @@
         "Term":"Active listening",
         "Tags": ["Editorial"],
         "Definition":"Identifying and assessing what is being said about a brand on social media, or topics/influencers of interest to a brand's audience. Active listening allows brands to know what their customers think about their products/services and identify areas of conversation they can credibly become a part of. It also gives them the opportunity to respond quickly, particularly if a customer has a complaint. See also community management and crisis management.",
-        "Link": ["Community", "management", "Crisis management"]
+        "Link": ["Community management", "Crisis management"]
     },
     {
         "Term":"Adaptive web design (AWD)",
@@ -33,7 +33,7 @@
         "Term":"Agile software development methodology",
         "Tags": ["Production", "Tech", "UX/Design"],
         "Definition":"A methodology that incorporates continuous feedback to refine and deliver a software system. It helps teams respond to unpredictability through incremental, iterative work sprints. Used as an alternative to the waterfall approach. ",
-        "Link": ["Sprints", "Waterfall"]
+        "Link": ["Sprint", "Waterfall"]
     },
     {
         "Term":"Alpha release",
@@ -74,7 +74,7 @@
     {
         "Term":"ARIA (or WAI ARIA)",
         "Tags": ["Accessibility"],
-        "Definition":"Web Accessibility Initiative â€“ Accessible Rich Internet Applications is a technical specification from W3C that specifies how to increase the accessibility of web pages, in particular, dynamic content and user interface components developed with Ajax, HTML, JavaScript and related technologies. ",
+        "Definition":"Web Accessibility Initiative — Accessible Rich Internet Applications is a technical specification from W3C that specifies how to increase the accessibility of web pages, in particular, dynamic content and user interface components developed with Ajax, HTML, JavaScript and related technologies. ",
         "Link": ["W3C", "HTML", "JavaScript"]
     },
     {
@@ -119,7 +119,7 @@
         "Term":"Bitbucket",
         "Tags": ["Tech"],
         "Definition":"A web-based hosting service for projects that use either the Github or Mercurial revision control systems.",
-        "Link": ["Github"],
+        "Link": ["GitHub"],
         "ExternalLink": ["https://bitbucket.org"]
     },
     {
@@ -175,7 +175,7 @@
         "Term":"Burndown",
         "Tags": ["Production"],
         "Definition":"A graph that shows the amount of work left to be done before the end of a project. The Y axis shows effort and the X axis shows time. Ideally, the graph should show a downward trend as the amount of work left burns down to zero. Burndown charts are often used in agile software development.",
-        "Link": ["Agile", "software development methodology"]
+        "Link": ["Agile", "Software development methodology"]
     },
     {
         "Term":"Business analysis",
@@ -199,7 +199,7 @@
         "Term":"C++",
         "Tags": ["Tech"],
         "Definition":"An object-oriented programming language viewed by many as the best for creating large-scale applications.",
-        "Link": ["Object-oriented programming"]
+        "Link": ["Object oriented programming"]
     },
     {
         "Term":"Call to action (CTA)",
@@ -314,7 +314,7 @@
         "Term":"Content distribution platforms",
         "Tags": ["Editorial", "Strategy"],
         "Definition":"Platforms for distributing and sharing branded content. These can range from sponsored Facebook posts and tweets to platforms such as Outbrain and Taboola, which promote branded content on high-profile media sites on a pay-per-click basis. ",
-        "Link": ["Pay-per-click"]
+        "Link": ["Pay per click"]
     },
     {
         "Term":"Content governance",
@@ -368,7 +368,7 @@
     {
         "Term":"Creative concepting",
         "Tags": ["Strategy"],
-        "Definition":"The creative process â€“ taking an idea and bringing it to life in a way that articulates the message a brand wants to get across.",
+        "Definition":"The creative process - taking an idea and bringing it to life in a way that articulates the message a brand wants to get across.",
         "Link": [""]
     },
     {
@@ -418,7 +418,7 @@
         "Term":"DDA",
         "Tags": ["Accessibility"],
         "Definition":"The Disability Discrimination Act (1995) ensured that websites were accessible to blind and disabled users. It was superceded by the Equality Act in 2010.",
-        "Link": ["Equality Act (EQA)"]
+        "Link": ["EQA"]
     },
     {
         "Term":"Deliverable",
@@ -595,7 +595,7 @@
         "Term":"Front-end development",
         "Tags": ["Tech"],
         "Definition":"The coding of the front end of a website, ie the part that a user sees and directly interacts with. Typically, a front-end developer will convert design files into HTML, CSS and JavaScript for a website or application. The end result is code which is used by a back-end developer to add processes and databases. ",
-        "Link": ["HTML", "CSS", "JavaScript", "Backend development"]
+        "Link": ["HTML", "CSS", "JavaScript", "Back-end development"]
     },
     {
         "Term":"Functional spec",
@@ -704,13 +704,13 @@
         "Term":"Java",
         "Tags": ["Tech"],
         "Definition":"An object-oriented programming language. It was designed to have the look and feel of the C++ language, but is simpler to use.",
-        "Link": ["Object-oriented programming", "C++"]
+        "Link": ["Object oriented programming", "C++"]
     },
     {
         "Term":"JavaScript",
         "Tags": ["Tech"],
         "Definition":"Not to be confused with Java, JavaScript is an object-orientated programming scripting language for web pages. It is one of the three essential technologies of web content, alongside HTML and CSS; the majority of websites use it and it is supported by all web browsers. ",
-        "Link": ["Object-oriented programming", "HTML", "CSS"]
+        "Link": ["Object oriented programming", "HTML", "CSS"]
     },
     {
         "Term":"JAWS",
@@ -1008,7 +1008,7 @@
         "Term":"Real-time marketing",
         "Tags": ["Editorial"],
         "Definition":"A form of agile marketing that involves reacting to news and major events as they happen, normally in the form of a tweet or a Vine. See also newsroom.",
-        "Link": ["Agile marketing Newsroom"]
+        "Link": ["Agile marketing", "Newsroom"]
     },
     {
         "Term":"Regression testing",
@@ -1158,7 +1158,7 @@
         "Term":"Search Engine Marketing (SEM)",
         "Tags": ["Strategy"],
         "Definition":"The process of gaining traffic and visibility from search engines through both paid and unpaid efforts. This includes SEO, but is mainly focused on pay-per-click and other forms of paid search.",
-        "Link": ["SEO Pay-per-click"]
+        "Link": ["SEO", "Pay per click"]
     },
     {
         "Term":"Search Engine Optimisation (SEO)",
@@ -1260,7 +1260,7 @@
         "Term":"Statement of Work",
         "Tags": ["Production"],
         "Definition":"A document that captures and defines the work activities and deliverables an agency must accomplish under the terms of the contract. The SOW will give the timeline and usually includes detailed requirements, pricing and how success will be measured.",
-        "Link": ["Deliverables"]
+        "Link": ["Deliverable"]
     },
     {
         "Term":"Storyboard",
@@ -1281,9 +1281,9 @@
         "Link": ["Wireframe"]
     },
     {
-        "Term":"Subbing",
+        "Term":"Sub-editing",
         "Tags": ["Editorial"],
-        "Definition":"At Zone, the subbing team ensures the accuracy, quality and consistency of content across websites and social media;â€¨ maintains the correct tones of voice across a range of accounts; ensures all content meets brand and legal guidelines; and liaises with creatives or client services to ensure smooth delivery. The head of subbing also wrote this glossary.",
+        "Definition":"At Zone, the sub-editing team ensures the accuracy, quality and consistency of content across websites and social media; maintains the correct tones of voice across a range of accounts; ensures all content meets brand and legal guidelines; and liaises with creatives or client services to ensure smooth delivery. The head of sub-editing also wrote this glossary.",
         "Link": [""]
     },
     {
@@ -1344,7 +1344,7 @@
         "Term":"Timezone: Budget to date",
         "Tags": ["Zone", "Finance"],
         "Definition":"In the Client Report, the Budget to date is calculated as Budget x Time %.",
-        "Link": ["Client", "Report", "Budget", "Time"]
+        "Link": ["Client report", "Budget", "Time%"]
     },
     {
         "Term":"Timezone: Client Report",
@@ -1466,7 +1466,7 @@
         "Term":"User experience design (UXD)",
         "Tags": ["UX/Design"],
         "Definition":"The process of designing digital products or services in a way that considers the needs of the user at every stage. The product, for example a website, should be useful, easy to use and a pleasure to interact with. UXD encompasses a number of disciplines including user research, information architecture, interaction design and user interface design.",
-        "Link": ["User research Interaction design Information architecture User interface "]
+        "Link": ["User research", "Interaction design", "Information architecture", "User interface"]
     },
     {
         "Term":"User interface (UI)",
@@ -1483,7 +1483,7 @@
     {
         "Term":"User research",
         "Tags": ["UX/Design"],
-        "Definition":"The process of learning about product or service users or potential users â€“ their situation, background, needs and context in which they work. User research is usually done at a formative design stage to ensure the project will be usable and add value to users. Types of user research include ethnography, depth interviews, diary studies, focus groups and card sorting.",
+        "Definition":"The process of learning about product or service users or potential users their situation, background, needs and context in which they work. User research is usually done at a formative design stage to ensure the project will be usable and add value to users. Types of user research include ethnography, depth interviews, diary studies, focus groups and card sorting.",
         "Link": ["Card sort", "Diary study"]
     },
     {
@@ -1578,7 +1578,7 @@
         "Term":"Web server",
         "Tags": ["Tech"],
         "Definition":"When a user enters a URL into a browser, the browser sends off a request to view the web page. The web server is the program or machine that responds to that request, and delivers the content of the page back to the user. Every web server has an IP address.",
-        "Link": ["URL", "IP", "address"]
+        "Link": ["URL", "IP address"]
     },
     {
         "Term":"Web service",
