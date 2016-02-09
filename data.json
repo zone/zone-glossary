@@ -86,7 +86,7 @@
     {
         "Term":"ASP.NET",
         "Tags": ["Tech"],
-        "Definition":"ASP.NET is part of the .NET framework and allows developers to create rich web applictions. See also .Net",
+        "Definition":"ASP.NET is part of the .NET framework and allows developers to create rich web applictions. See also .NET",
         "Link": [".NET"],
         "ExternalLink": ["http://www.asp.net"]
     },
@@ -118,7 +118,7 @@
     {
         "Term":"Bitbucket",
         "Tags": ["Tech"],
-        "Definition":"A web-based hosting service for projects that use either the Github or Mercurial revision control systems.",
+        "Definition":"A web-based hosting service for projects that use either the GitHub or Mercurial revision control systems.",
         "Link": ["GitHub"],
         "ExternalLink": ["https://bitbucket.org"]
     },
@@ -156,7 +156,7 @@
     {
         "Term":"Brand vision",
         "Tags": ["Strategy", "UX/Design"],
-        "Definition":"An overarching aspiration (sometimes summed up in a single sentence) of what a brand wants to achieve; what its purpose is. Strong brand visions can inspire and give direction to staff, and attract customers. Notable examples include Oxfam's 'A just world without poverty' and Ikea's 'Affordable solutions for better living'.",
+        "Definition":"An overarching aspiration (sometimes summed up in a single sentence) of what a brand wants to achieve; what its purpose is. Strong brand visions can inspire and give direction to staff, and attract customers. Notable examples include Oxfam's 'A just world without poverty' and Ikea's 'Affordable solutions for better living'. Zone's vision is: '‘'Our expertise in strategy, technology and content will help ambitious businesses win.'",
         "Link": [""]
     },
     {
@@ -175,7 +175,7 @@
         "Term":"Burndown",
         "Tags": ["Production"],
         "Definition":"A graph that shows the amount of work left to be done before the end of a project. The Y axis shows effort and the X axis shows time. Ideally, the graph should show a downward trend as the amount of work left burns down to zero. Burndown charts are often used in agile software development.",
-        "Link": ["Agile", "Software development methodology"]
+        "Link": ["Agile software development methodology"]
     },
     {
         "Term":"Business analysis",
@@ -193,7 +193,7 @@
         "Term":"C#",
         "Tags": ["Tech"],
         "Definition":"A hybrid of C and C++, C# (pronounced C-sharp) is an object-oriented programming language for networking and web development.",
-        "Link": ["C++", "Object-oriented programming"]
+        "Link": ["C++", "Object oriented programming"]
     },
     {
         "Term":"C++",
@@ -386,7 +386,7 @@
     {
         "Term":"CRM",
         "Tags": ["Strategy"],
-        "Definition":"Usually defined as either Customer Relationship Management or Customer Relationship Marketing. Zone's CRM guru Gianfranco Cuzziol says it's both and neither. ",
+        "Definition":"Usually defined as either Customer Relationship Management or Customer Relationship Marketing. Zone's CRM guru Gianfranco Cuzziol says it's both and neither. ''Yes, we manage the customers contractual relationships with clients but do customers have relationships with brands? And yes, we help our clients' marketing teams talk with their customers but it's more about marketing with customers rather than marketing to customers. At Zone our CRM is more about Creating Relevant Moments, ensuring that whatever the customer needs, wherever and however they're doing it, our clients are or them''",
         "Link": [""]
     },
     {
@@ -495,7 +495,7 @@
     {
         "Term":"Dotmailer",
         "Tags": ["Tech"],
-        "Definition":"A flexible, scalable email-marketing software that allows for third-party integration with CMSs such as Wordpress. <a href='http:\\/\\/www.dotmailer.com'>Dotmailer</a>",
+        "Definition":"A flexible, scalable email-marketing software that allows for third-party integration with CMSs such as Wordpress.",
         "Link": [],
         "ExternalLink": ["http://www.dotmailer.com"]
     },
@@ -532,7 +532,7 @@
     },
     {
         "Term":"Estimate",
-        "Tags": ["Account management", "production"],
+        "Tags": ["Account management", "Production"],
         "Definition":"An estimate is the final cost that forms the amount of money the client will pay the agency. While there may be some inaccuracy due to risk (+/-20 per cent), the agency puts into place mitigation plans for these scenarios. See also ballpark and indicative.",
         "Link": ["Ballpark", "Indicative"]
     },
@@ -576,7 +576,7 @@
     {
         "Term":"Five Whys",
         "Tags": ["Production"],
-        "Definition":"A simple problem-solving exercise designed to unearth the root of any problem or unexpected situation by repeating the question ",
+        "Definition":"A simple problem-solving exercise designed to unearth the root of any problem or unexpected situation by repeating the question ''Why?'' Five is the number of questions typically required to resolve the problem, but it may differ depending on the complexity of the problem. The process also helps to determine the relationship between different root causes of a problem.",
         "Link": [""]
     },
     {
@@ -660,7 +660,7 @@
     },
     {
         "Term":"Indicative",
-        "Tags": ["Account management", "production"],
+        "Tags": ["Account management", "Production"],
         "Definition":"A cost that is given during scoping. Requirements are known but may not have been fully considered and scoped. This has an accuracy of +/-50 per cent.",
         "Link": ["Scoping"]
     },
@@ -739,7 +739,7 @@
     {
         "Term":"MCCM (multi-channel campaign management)",
         "Tags": ["Tech"],
-        "Definition":"The practice of interacting with customers using a combination of indirect and direct communication channels â€“ websites, email, mobile, etc â€“ and enabling customers to take action in response using the channel of their choice.",
+        "Definition":"The practice of interacting with customers using a combination of indirect and direct communication channels - websites, email, mobile, etc - and enabling customers to take action in response using the channel of their choice.",
         "Link": [""]
     },
     {
@@ -898,7 +898,7 @@
     {
         "Term":"Planned agility",
         "Tags": ["Editorial"],
-        "Definition":"A form of agile marketing in which the brand prepares content for a certain event, then is able to respond quickly on social media during the event itself. This may include design and pre-production of Vines or tweets, or writing (and getting client sign-off) for tweets relating to different scenarios that may occur â€“ for example, Zone's live commentary on the Eurovision Song Contest for the @Tesco Twitter feed.",
+        "Definition":"A form of agile marketing in which the brand prepares content for a certain event, then is able to respond quickly on social media during the event itself. This may include design and pre-production of Vines or tweets, or writing (and getting client sign-off) for tweets relating to different scenarios that may occur - for example, Zone's live commentary on the Eurovision Song Contest for the @Tesco Twitter feed.",
         "Link": ["Agile marketing"]
     },
     {
@@ -940,7 +940,7 @@
     {
         "Term":"Proof",
         "Tags": ["Editorial", "UX/Design"],
-        "Definition":"A copy of the final design to be checked for design (colours, positioning etc) and accuracy of content (although it should have already been through the subbing process). A hard copy (printed page) and soft copy (a PDF) is sent by the printers for final sign-off. ",
+        "Definition":"A copy of the final design to be checked for design (colours, positioning etc) and accuracy of content (although it should have already been through the sub-editing process). A hard copy (printed page) and soft copy (a PDF) is sent by the printers for final sign-off. ",
         "Link": ["Subbing"]
     },
     {
@@ -953,7 +953,7 @@
         "Term":"Python",
         "Tags": ["Tech"],
         "Definition":"A general purpose, object-orientated programming language comparable to Java.",
-        "Link": ["Object-oriented programming", "Java"]
+        "Link": ["Object oriented programming", "Java"]
     },
     {
         "Term":"QA",
@@ -1054,7 +1054,7 @@
     },
     {
         "Term":"Retainer",
-        "Tags": ["Account management", "production"],
+        "Tags": ["Account management", "Production"],
         "Definition":"A regular payment in exchange for work. Retainers should be for a fixed period and have defined deliverables for each period.",
         "Link": ["Deliverable"]
     },
@@ -1116,7 +1116,7 @@
         "Term":"Scala",
         "Tags": ["Tech"],
         "Definition":"Scala (scalable language) is a programming language that incorporates both object-oriented and functional programming into a concise, logical and powerful language.",
-        "Link": ["Object-oriented programming"]
+        "Link": ["Object oriented programming"]
     },
     {
         "Term":"Scamp",
@@ -1139,7 +1139,7 @@
     {
         "Term":"Screen reader",
         "Tags": ["Tech", "Accessibility"],
-        "Definition":"A software application that enables blind or visually impaired users to use a computer. They work with the computer's operating system to provide information about icons, menus, dialogue boxes, files and folders. Screen readers can use speech or Braille to guide the user â€“ some use a combination of both.",
+        "Definition":"A software application that enables blind or visually impaired users to use a computer. They work with the computer's operating system to provide information about icons, menus, dialogue boxes, files and folders. Screen readers can use speech or Braille to guide the user - some use a combination of both.",
         "Link": [""]
     },
     {
@@ -1181,13 +1181,13 @@
     {
         "Term":"Sentiment",
         "Tags": ["Strategy"],
-        "Definition":"The way customers or potential customers are talking about a brand â€“ sentiment can be positive, negative or neutral. On social media, sentiment can be gauged by active listening and can be measured using metrics such as amplification, applause and conversation.",
+        "Definition":"The way customers or potential customers are talking about a brand - sentiment can be positive, negative or neutral. On social media, sentiment can be gauged by active listening and can be measured using metrics such as amplification, applause and conversation.",
         "Link": ["Active listening", "Amplification", "Applause", "Conversation"]
     },
     {
         "Term":"Service design",
         "Tags": ["UX/Design"],
-        "Definition":"The shaping of holistic service experiences according to the needs of customers or service users, so that the service delivered is user-friendly, competitive and relevant. This includes consideration of the systems that link the various touchpoints â€“ points at which a customer interacts with the service offering.",
+        "Definition":"The shaping of holistic service experiences according to the needs of customers or service users, so that the service delivered is user-friendly, competitive and relevant. This includes consideration of the systems that link the various touchpoints - points at which a customer interacts with the service offering.",
         "Link": [""]
     },
     {
@@ -1283,7 +1283,7 @@
     {
         "Term":"Sub-editing",
         "Tags": ["Editorial"],
-        "Definition":"At Zone, the sub-editing team ensures the accuracy, quality and consistency of content across websites and social media; maintains the correct tones of voice across a range of accounts; ensures all content meets brand and legal guidelines; and liaises with creatives or client services to ensure smooth delivery. The head of sub-editing also wrote this glossary.",
+        "Definition":"At Zone, the sub-editing team ensures the accuracy, quality and consistency of content across websites and social media; maintains the correct tones of voice across a range of accounts; ensures all content meets brand and legal guidelines; and liaises with creatives or client services to ensure smooth delivery. The head of subbing also wrote this glossary.",
         "Link": [""]
     },
     {
