@@ -386,7 +386,7 @@
     {
         "Term":"CRM",
         "Tags": ["Strategy"],
-        "Definition":"Usually defined as either Customer Relationship Management or Customer Relationship Marketing. Zone's CRM guru Gianfranco Cuzziol says it's both and neither. ''Yes, we manage the customers contractual relationships with clients but do customers have relationships with brands? And yes, we help our clients' marketing teams talk with their customers but it's more about marketing with customers rather than marketing to customers. At Zone our CRM is more about Creating Relevant Moments, ensuring that whatever the customer needs, wherever and however they're doing it, our clients are there for them''",
+        "Definition":"Usually defined as either Customer Relationship Management or Customer Relationship Marketing. Zone's CRM guru Gianfranco Cuzziol says it's both and neither. ''Yes, we manage the customers contractual relationships with clients but do customers have relationships with brands? And yes, we help our clients' marketing teams talk with their customers but it's more about marketing with customers rather than marketing to customers. At Zone our CRM is more about Creating Relevant Moments, ensuring that whatever the customer needs, wherever and however they're doing it, our clients are there for them.''",
         "Link": [""]
     },
     {
@@ -958,7 +958,7 @@
     {
         "Term":"Python",
         "Tags": ["Tech"],
-        "Definition":"A general purpose, object orientated programming language comparable to Java.",
+        "Definition":"A general purpose, object oriented programming language comparable to Java.",
         "Link": ["Object oriented programming", "Java"]
     },
     {
