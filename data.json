@@ -1480,8 +1480,8 @@
     {
         "Term":"Xamarin",
         "Tags": ["Tech"],
-        "Definition":"A tool that enables developers to write mobile applications in C+ that will run across iOS, Android and Windows platforms.",
-        "Link": ["C+"]
+        "Definition":"A tool that enables developers to write mobile applications in C# that will run across iOS, Android and Windows platforms.",
+        "Link": ["C#"]
     },
     {
         "Term":"ZWAG",
